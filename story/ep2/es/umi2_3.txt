@@ -833,4 +833,4 @@
 ` Eso te lo prometo, sin ninguna duda."`
 `¡Estoy ansiosa de ver cómo madura esta dulce fruta!`
 `Después de todo, las mariposas doradas no pululan sobre el zumo de la fruta sobremadura y podrida.`
-`¡No puedo esperar a que llegue el día de la cosecha! ¡El banquete ya ha comenzado!{n}¡¡*carcajada*carcajada*jajajajajajajajajaja{0}ja{0}ja{0}ja{0}ja{0}ja{0}ja{0}ja{0}ja{0}jajaja!!`
+`¡No puedo esperar a que llegue el día de la cosecha! ¡¿Ha llegado la hora del banquete?!{n}¡¡*carcajada*carcajada*jajajajajajajajajaja{0}ja{0}ja{0}ja{0}ja{0}ja{0}ja{0}ja{0}ja{0}jajaja!!`
