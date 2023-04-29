@@ -2,7 +2,7 @@
 ` pero para Jessica, había otro antes de ese: el festival cultural de la escuela.`
 `A Jessica le gustaba la escuela; para ella era un lugar donde podía descargar el estrés que había acumulado durante el estricto estilo de vida que se veía obligada a llevar en casa.`
 `Para el festival cultural de hoy, ella había formado una banda con sus amigas,`
-` y tocarían pop-rock casual en un escenario provisorio.`
+` y tocarían pop‐rock casual en un escenario provisorio.`
 `Ella estuvo preparándose y practicando para ello, y tenía muchas ganas de que llegara el día de hoy,`
 ` pero había una cosa que le preocupaba.`
 `Ella miró al reloj.`
@@ -10,11 +10,11 @@
 `¿Él vendrá realmente?`
 `Cuando estaba a punto de exhalar un suspiro para aliviar el estrés, su corazón dio un salto cuando todas sus amigas empezaron a hablar de repente con voces estridentes.`
 `"¡¡No puede ser, el novio de Hina es un auténtico ga~lán!!"`
-`"¡Lo es totalmente, ¿verdad?!`
-` ¡Lo es totalmente, ¿verdad?!"`
+`"¡Realmente lo es, ¿verdad?!`
+` ¡Realmente lo es, ¿verdad?!"`
 `"¡Rin, tu novio parece muy inteligente!`
 ` ¡¿Así que es de los que parecen superlistos con gafas?! ¡¿O sea, en serio?!"`
-`"¡No hay forma, no hay forma, mi hombre es un gyaru-o!"`
+`"¡No hay forma, no hay forma, mi hombre es un {i:gyaruo}!"`
 `"""*risita*{p:0:♪} *risita*{p:0:♪}"""`
 `No es que todas las chicas sean necesariamente así,`
 ` pero al menos en la escuela de Jessica, el festival cultural era realmente una exhibición de novios.`
@@ -26,7 +26,7 @@
 `Pero por diversas razones, no había podido librarse del festival cultural de este año...`
 `"Jessie~.`
 ` ¿Tu novio ya vi~no?"`
-`"¡¿Hweh?!`
+`"¡¿Hueh?!`
 ` Ah, ah, no, parece que aún no está aquí.`
 ` ¿Tal vez está ocupado con su trabajo?`
 ` Ajajajajajajajajajajaja..."`
@@ -40,37 +40,37 @@
 ` ¡¡Kyaaa!!"`
 `"Heeeeeey, pero la verdad es que no tienes uno, ¿no es así?`
 ` ¡Si te sinceras ahora, te dejaré que te unas a mí!`
-` ¡Inundemos ambas este festival cultural con lágrimaaas"`
-`"No, no, no, ya lo dije, ya lo dije, se los dije, de verdad lo dije...`
-` ¡¡Ajajajajajajajajajajaja...!!"`
+` ¡Inundemos ambas este festival cultural con lágrimaaas!"`
+`"No no no, sí que tengo, sí que tengo, les estoy diciendo, realmente tengo uno...`
+` ¡¡Ajajajajajajajajajajaja!!"`
 `Jessica se rio torpemente, cubierta de sudor frío.`
 ` Era muy dudoso que realmente hubiese engañado a sus avispadas amigas...`
 `"Ya veo.`
 ` Entonces, ¿qué tal si se consigue un novio falso y lo lleva consigo?"`
 `"¡¿F‐f‐falso?!`
 ` ¡¿A qu‐quién...?!`
-` ¡No puedo pensar en nadie...!"`
+` ¡No puedo pensar en nadie!"`
 `El ridículo plan de Shannon sorprendió mucho a Jessica.`
 `Aun así, era un poco más realista que el irreal método que le rondaba por la cabeza acerca de conseguir un novio a toda prisa antes del día del festival cultural.`
 `"Por ejemplo,`
-` ¿Qué tal Kanon-kun?"`
+` ¿Qué tal Kanon‐kun?"`
 `"¡¿K‐K‐Kanon‐kuuuuuun?!`
-` ¡¡N‐n‐no hay manera, no hay manera!!`
-` Y de todos modos estoy segura de que Kanon-kun tendrá trabajo el día del festival.`
+` ¡¡N‐n‐ni hablar, ni hablar!!`
+` Y de todos modos estoy segura de que Kanon‐kun tendrá trabajo el día del festival.`
 ` No quiero molestarlo y eso..."`
 `"No hay ningún problema, ya he revisado los horarios.`
-` Kanon-kun tiene ese día libre."`
-`"T-tú siempre eres tan astuta en momentos como este...`
+` Kanon‐kun tiene ese día libre."`
+`"T‐tú siempre eres tan astuta en momentos como este...`
 ` ¡No, espera!`
 ` Es aún peor si es su día libre...`
 ` ¡No puedo simplemente quitarle su valioso día libre por mi propia vanidad!"`
-`"Kanon-kun siempre se encierra en si mismo en sus dias libres,`
-` así que creo sería perfecto forzarlo a salir un poco."`
-`"¿T-t-`
+`"Kanon‐kun siempre se encierra en si mismo en sus dias libres,`
+` así que creo sería perfecto obligarlo a salir un poco."`
+`"¿T‐t‐...`
 ` tú crees eso?`
 ` No,`
 ` pero,`
-` me sentiría mal por Kanon-kun..."`
+` me sentiría mal por Kanon‐kun..."`
 `"Entonces creo que se ha quedado sin opciones...`
 ` ¿Qué le parece si mejor confiesa honestamente que no tiene novio?"`
 `"Oh, es cierto, es cierto, eso puede hacer que experimente algo de vergüenza,`
@@ -85,8 +85,8 @@
 `Ante aquella venganza de Shannon, que no se producía ni una vez al año, Jessica se revolcó en su cama abrazando su cojín, retorciéndose y sufriendo.`
 `La sonrisa triunfante de Shannon era insoportablemente frustrante, pero ahora mismo era la única persona con la que Jessica podía hablar.`
 ` Por lo que asfixiarla con un cojín podría esperar hasta más tarde.`
-`"¿Por qué no, Señorita?`
-` Es un festival cultural, pero también es una oportunidad para que te diviertas con Kanon-kun."`
+`"¿Por qué no, señorita?`
+` Es un festival cultural, pero también es una oportunidad para que te diviertas con Kanon‐kun."`
 `"Pues sí, pero...`
 ` ¡¡Ahh, nononono!!"`
 `Jessica escondió su rostro en su cojín favorito para ocultar el hecho de que estaba muy avergonzada.`
@@ -99,51 +99,51 @@
 `Así que Jessica había escuchado a detalle cómo progresaba el amor entre Shannon y George,`
 ` y, por otro lado, Shannon había escuchado a detalle los gustos de Jessica y el tipo de hombre en el que podría estar interesada.`
 `A juzgar por las reacciones de Jessica, probablemente sería grosero hablar de eso en detalle...`
-`Pero no llegaremos a ninguna parte si Jessica se mantiene retorciéndose en la cama para siempre, así que -para dejarlo claro-`
-`Jessica había estado pensando en Kanon desde que lo conoció por primera vez.`
+`Pero no llegaremos a ninguna parte si Jessica se mantiene retorciéndose en la cama para siempre. Así que, para dejarlo claro,`
+` Jessica había estado pensando en Kanon desde que lo conoció por primera vez.`
 `Casi no había hombres jóvenes en Rokkenjima.`
 `{n}Así que tal vez era natural que Jessica, siendo una chica en la pubertad, se hubiese interesado en Kanon.`
 `Pero si alguien dijera eso, destruiría el romance del corazón puro de una doncella y del amor a primera vista.`
 `Shannon conocía muy bien a Kanon, incluso antes de que empezaran a trabajar, debido a que siempre paraban juntos en el orfanato.`
 `Y por eso Jessica le había preguntado insistentemente sobre qué tipo de persona era, cuáles eran sus aficiones, cuáles eran sus comidas favoritas, qué tipo de chica le gustaba...`
-`Incluso Shannon podía decir claramente que Jessica estaba hechizada por Kanon.`
+`Incluso Shannon podía ver claramente que Jessica estaba obsesionada con Kanon.`
 `"Por favor...`
-` ¿No es esta una buena oportunidad para llevar a Kanon-kun a una cita?"`
-`"P-pero pero... Kanon-kun podría tener a alguien que le guste...`
+` ¿No es esta una buena oportunidad para llevar a Kanon‐kun a una cita?"`
+`"P‐p‐pero pero pero... Kanon‐kun podría tener a alguien que le guste...`
 ` ¿No se lo tomaría a mal si lo hago ir conmigo solo para presumir?"`
-`"Las personas que no son honestas con sus sentimientos, como usted Señorita, se les llama...`
-` ¿Cuál era esa palabra que aprendí de George-sama?`
+`"Las personas que no son honestas con sus sentimientos, como usted señorita, se les llama...`
+` ¿Cuál era esa palabra que aprendí de George‐sama?`
 ` Ah es verdad, se les llaman "{c:86ef9c:tsundora}".`
 ` Aparentemente serán muy populares dentro de unas décadas, ¿sabía?"`
-`"Wowww, George nii-san sí que es increíble...`
+`"Guaaau, George nii‐san sí que es increíble...`
 ` ¿Así que ahora es capaz de predecir las tendencias futuras?`
 ` Asombroso.`
 ` ¡No, espera!`
 ` ¡Acabas de decir que estoy viviendo en el período de tiempo equivocado!"`
-`"¡¡Waah, waah, waah, estoy acabada!!"`
+`"¡¡Uaah, uaah, uaah, estoy acabada!!"`
 `Al final, Jessica desperdició varios días antes de aceptar finalmente el plan de que Kanon se hiciera pasar por su novio.`
-`"Sí, Señorita.`
+`"Sí, señorita.`
 ` ¿Me ha llamado?"`
 `Jessica se dio cuenta de que lo había llamado en un mal momento, e inmediatamente se arrepintió.`
 `Kanon siempre tenía una mirada amarga, pero aun así, él tenía algunos días buenos y otros malos.`
 `Por desgracia, hoy era uno de esos días malos.`
 `"N‐n‐no, umm, bueno,`
 ` errr..."`
-`"....................."`
+`"..."`
 `Toda la confianza y el valor que había conseguido practicando frente al espejo toda la noche se esfumó en unos cinco segundos...`
 `Jessica se sonrojó completamente y bajó la mirada.`
 `Mirándola, Kanon suspiró.`
 `{n}Jessica pensó que se estaba hartando de ella, y su rostro se puso pálido.`
 `"Shannon me lo contó.`
-` Acerca de acompañarle al festival cultural de la escuela, ¿verdad Señorita?"`
-`"¿Huh?`
+` Es acerca de acompañarle al festival cultural de la escuela, ¿verdad señorita?"`
+`"¿Eh?`
 ` ¡¡Ah, aaaaaaahhh!!`
 ` ¡Bien hecho, Shannon!`
 ` ¡Quiero decir...!"`
-`"S-sí, sí.`
+`"S‐sí, sí.`
 ` ¡Eso es cierto, pero, umm, err!`
-` ¿Tie-tienes algún p-plan ese día...?""`
-`"Shannon me ordenó estrictamente que en ese día yo trabajase únicamente para usted, Señorita.`
+` ¿Ti‐tienes algún p‐plan ese día?"`
+`"Shannon me ordenó estrictamente que en ese día yo trabajase únicamente para usted, señorita.`
 ` Nunca he ido a una escuela secundaria, así que no lo entiendo muy bien,`
 ` pero he oído que es un lugar donde las chicas se sienten muy avergonzadas si no están acompañadas por un chico."`
 `"Y se me ha ordenado particularmente que la hija de la familia Ushiromiya no sea de ninguna manera inferior a la gente común."`
@@ -161,26 +161,26 @@
 `¿No podría este extraño giro de los acontecimientos haber sido provocado por el poder mágico que reside en este broche?`
 `Qué ridículo...`
 `{n}Sin embargo, aquellas palabras de Shannon me vinieron a la mente.`
-`¿Qué puede {y:1:‘ver’}{n:1:ver} Shannon que no pueda yo?`
+`¿Qué puede ver Shannon que no pueda yo?`
 `No entiendo los sentimientos de Shannon.`
 ` Nosotros somos muebles.`
 `{n}Como si pudiéramos convertirnos en algo más que eso.`
 `Jessica, aún murmurando con una voz extraña, y Kanon, suspirando profundamente, hacían una combinación bastante peculiar...`
 `"¡¡Jessie, alguien ha venido a buscarte!!`
 ` ¡¿No escuchaste?!"`
-`"¡Huh, ah, ah, lo siento!`
+`"¡Eh, ah, ah, lo siento!`
 ` ¿Qu‐quién...?"`
 `Mientras mis amigas se agrupaban, miraban hacia aquí con expresiones difíciles de describir,`
 ` chismeando entre ellas con un tono de voz que no podría decirse bajo.`
 `Incluso yo me sentí un poco descarada.`
 ` ¡¿Acabo de decir "lo siento, quién"?!`
-`{n}¡Como si no supiera quién ha venido...!`
+`{n}¡Como si no supiera quién ha venido!`
 `{n}Aaaaaaah, mierda, mierda, mierda, mi mente está en blanco...`
-`"¡Oh my God! ¡¿Ese es el novio de Jessie?!`
+`"¡Increíble! ¡¿Ese es el novio de Jessie?!`
 ` ¡¡Es taaaan lindo!!"`
 `"¡¿De verdad tenía novio?!`
 ` ¡¿No es falso, en serio, de verdaaad?!"`
-`"¡¡Jessica, tú traidooraaaa!!`
+`"¡¡Jessica, traidooraaaa!!`
 ` ¡¡Él es tan guapo!!"`
 `"¡¿Es más joven?!`
 ` ¡¿Nunca escuché que fuese más joven?!"`
@@ -188,18 +188,18 @@
 ` ¡¿Dónde está el novio de Jessie?!"`
 `"¡¡¡¡¡Sí que le gustan los chicos jóvenes!!!!!"`
 `"¡He‐hhhhhey!`
-` ¡T-te tardaste un poco, wajajajajaja!"`
+` ¡T‐te tardaste un poco, wajajajajaja!"`
 `"No sabía dónde era la entrada.`
 ` Me disculpo por llegar tarde."`
-`"B-bien, umm, ese traje te queda bien, ¿no es así?`
-` ¡¡Wajajajajajajaja...!!"`
+`"B‐bien, umm, ese traje te queda bien, ¿no es así?`
+` ¡¡Wajajajajajajaja!!"`
 `"Shannon decía que mi ropa normal no sería adecuada, así que fuimos a comprar esta ayer.`
 ` Probablemente no me quede bien..."`
-`"¡Wa-wajajajajajajajajajaja, eso no es cierto!`
+`"¡Wa‐wajajajajajajajajajaja, eso no es cierto!`
 ` ¡Shannon, cuando regrese a casa tendrás un ascenso póstumo de dos rangos!"`
 `"Este lugar está algo lleno de chicas, es incómodo."`
-`"¡¿S-sí, verdad?!`
-` V-vamos, no nos quedemos aquí, vayamos al escenario, ¿de acuerdo?`
+`"¡¿S‐sí, verdad?!`
+` V‐vamos, no nos quedemos aquí, vayamos al escenario, ¿de acuerdo?`
 ` ¡Porque pronto será nuestro turno!`
 ` ¡Vamos, vamos, vamos!"`
 `Jessica estaba igual de incómoda que él.`
@@ -207,21 +207,21 @@
 `Cuando vio el comportamiento de Jessica, Kanon pensó que podría haberle puesto las cosas más difíciles al venir.`
 `"Tengo la sensación de que estoy interfiriendo en algo importante.`
 ` ¿Soy un estorbo?"`
-`"¡¡P-pa-para nada, en serio!!"`
+`"¡¡P‐pa‐para nada, en serio!!"`
 `"Si {ruby:boku:yo} le estoy estorbando, por favor dígamelo en cualquier momento..."`
-`((¡¡¡¡¡¡Kyaaa, Oh my God, él se llama a sí mismo "boku"!!!!!!))`
-`"Ahiiiiiiiii, tú, tú, tú no eres un estorbo, Kanon‐kun!!"`
+`((¡¡¡¡¡¡Kyaaa, increíble, él se llama a sí mismo "boku"!!!!!!))`
+`"¡¡Aiiiiiiiii, tú, tú, tú no eres un estorbo, Kanon‐kun!!"`
 `(((¡¡¡¡¡¡¡Kyaaaaaa, ella llama a su novio "kun"!!!!!!!)))`
-`"¿Qué debería hacer, Señorita?"`
-`(((¡¡¡Oh my God, ella hace que la llame Señorita, como si fuese un mayordomo, Oh my God!!!)))`
-`"¡¡Nooooooooo, no me llames Señorita hooooyyy!!"`
-`"¿E-en serio?`
-` Entendido, Jessica-sama."`
+`"¿Qué debería hacer, señorita?"`
+`(((¡¡¡Increíble, ella hace que la llame señorita, como si fuese un mayordomo, {ruby:omg:ktkr}!!!)))`
+`"¡¡Nooooooooo, no me llames señorita hooooyyy!!"`
+`"¿E‐en serio?`
+` Entendido, Jessica‐sama."`
 `(((Kyaaaaa, ella lo ha entrenado para que la llame "sama"!!!!!!!!)))`
-`"L-l-lo siento, Kanon-kun, solo por tres segundos, cierra tus ojos..."`
+`"L‐l‐lo siento, Kanon‐kun, solo por tres segundos, cierra tus ojos..."`
 `(((¡¡¡¡Hiiyaaaaaaa, beso, es un beso, lo va a besar!!!!)))`
-`"E-está bien, aquí voy."`
-`BANG,`
+`"E‐está bien, aquí voy."`
+`PAM,`
 ` ¡thunk!`
 ` BAMBAM,`
 ` SLAM,`
@@ -229,9 +229,9 @@
 `Cuando Kanon abrió los ojos, por alguna razón, se produjo una horrible tragedia en la habitación.`
 `{n}Todas sus amigas habían sido lanzadas contra las paredes, con sus extremidades extendidas.`
 `Jessica guardó sus nudillos de latón en el bolsillo justo antes de que Kanon abriera los ojos.`
-`"D-de todos modos, vayamos al escenario.`
+`"D‐de todos modos, vayamos al escenario.`
 ` Pronto será nuestro turno, así que tendrás que esperar en un asiento."`
-`"¡Nosotras tenemos que alistarnos!`
+`"¡Nosotras tenemos que prepararnos!`
 ` Así que ve en línea recta desde aquí hasta el fondo y encontrarás un escenario provisorio. ¡Espera en ese lugar!"`
 `Kanon parecía tener dificultades para adaptarse; empujándolo por la espalda, Jessica lo sacó al pasillo.`
 `Aunque Kanon estaba confundido por la actitud y el nerviosismo de Jessica, que nunca había visto antes, siguió sus instrucciones y se dirigió en la dirección que ella le había indicado.`
@@ -242,11 +242,11 @@
 `"ugggggggh, perdí la apuesta."`
 `"Estaba tan segura de que Jessie no tenía novio."`
 `"Ese no era su novio, ella solo estaba hostigando a uno de sus sirvientes, ¿cierto?"`
-`"¡Waaaah, él novio de Jessie es increíble...!"`
+`"¡Waaaah, él novio de Jessie es increíble!"`
 `"¡C‐ca‐cállate!!`
 ` ¡¡Vamos a prepararnos, vamos, vamos!!"`
 `Jessica sacó de su bolsillo sus nudillos de latón otra vez, y todas volvieron a sus tareas.`
-`"Haah..."`
+`"*suspiro*..."`
 `Kanon avanzó por el pasillo como le había dicho Jessica, y encontró un escenario provisorio armado en donde debían estar las máquinas expendedoras.`
 `Probablemente se compartía en intervalos de tiempo entre los distintos grupos y los clubes.`
 `Un grupo de estudiantes estaba cantando, y el lugar ya estaba muy animado.`
@@ -258,27 +258,27 @@
 `Honestamente, estaba tan animada que el alcohol podría haber estado involucrado.`
 `Para él, la mayor virtud de una persona era ser siempre sereno e intelectual.`
 `En ese sentido, le resultó muy difícil acostumbrarse al ambiente de un festival cultural escolar.`
-`Él tenía la responsabilidad de informar a su Amo de todo lo que veía u oía.`
+`Él tenía la responsabilidad de informar a su amo de todo lo que veía u oía.`
 `Por lo que también tendría que informar sobre el comportamiento desenfrenado de Jessica de antes.`
 `Cuando menos, no era apropiado para una hija de la familia principal de los Ushiromiya.`
-`El Amo, Krauss‐sama y,`
-` en especial, Natsuhi-sama seguramente se enfadarían.`
-`Si lo reportara de manera que proteja a la Señorita, ¿debería culpar a las amigas de la escuela de inapropiadas...?`
+`El amo, Krauss‐sama y,`
+` en especial, Natsuhi‐sama seguramente se enfadarían.`
+`Si lo reportara de manera que proteja a la señorita, ¿debería culpar a las amigas de la escuela de inapropiadas?`
 `"¿Qué fue todo eso?`
 ` Tan estúpido."`
 `Kanon pensó en cómo había actuado Jessica antes, y volvió a suspirar.`
 `Él ahora podía entender un poco el dolor de cabeza de Natsuhi.`
-`Ahora que lo pienso, Natsuhi-sama, como presidenta de la asociación de padres y maestros, debe de haber ido directamente a un evento social después de asistir a la ceremonia en el gimnasio.`
-`¿No había dicho que no estaría aquí para ver el evento de la Señorita?`
+`Ahora que lo pienso, Natsuhi‐sama, como presidenta de la asociación de padres y maestros, debe de haber ido directamente a un evento social después de asistir a la ceremonia en el gimnasio.`
+`¿No había dicho que no estaría aquí para ver el evento de la señorita?`
 `{n}Probablemente fue lo mejor.`
 `"Las multitudes son desagradables.`
 ` ¿Qué es lo que quieren?"`
 `Varias estudiantes no dejaban de mirarme.`
-`Parecía que todas susurraban el mismo tipo de cosas que habían dicho las amigas de la Señorita, y era realmente desagradable.`
+`Parecía que todas susurraban el mismo tipo de cosas que habían dicho las amigas de la señorita, y era realmente desagradable.`
 `Ahora que lo pienso, ¿no me lo advirtió Shannon?`
 `Que si iba a pasear por un festival escolar por mi cuenta,`
 ` será mejor que tenga cuidado porque vendrá mucha gente extraña a hablar conmigo.`
-`"Ho-hola~, ¿estás solo?"`
+`"Ho‐hola~, ¿estás solo?"`
 `Como era de esperar, un grupo de chicas que no conocía se puso a hablar conmigo.`
 `{n}Sus miradas comenzaron a hacer que mi espalda se estremeciera.`
 `¿No me dijo ella algunas palabras mágicas que pudieran ahuyentarlas en momentos como este?`
@@ -286,7 +286,7 @@
 `"Lo siento.`
 ` Estoy con alguien."`
 `"Uh, oh, ¿de verdad?`
-` ¡Di-disculpame!"`
+` ¡Di‐disculpame!"`
 `Ah, funcionó.`
 ` Una reacción instantánea...`
 `Bueno, eso hizo que se fueran, pero no ha cambiado el número de personas que me miran fijamente.`
@@ -296,7 +296,7 @@
 `"¡No puedo creerlo, estaba segura de que era falso!"`
 `"Es tan guapo, ¿es acaso más joven que ella?`
 ` ¡¡Estoy tan celosa!!"`
-`"Haah..."`
+`"*suspiro*..."`
 `De ninguna manera pienso volver a venir a un lugar como este.`
 ` Kanon suspiró por centésima vez.`
 `Cuando lo hizo, la iluminación cambió y el público de pie empezó a aplaudir.`
@@ -305,60 +305,60 @@
 `Con esta gran multitud, ni siquiera podía ver el escenario.`
 ` Afortunadamente, había una caja de cerveza cerca, así que intenté usarla como plataforma.`
 `Y me di cuenta de que ahora había un nuevo grupo en el escenario.`
-`La líder era la Señorita.`
+`La líder era la señorita.`
 ` Se había cambiado de ropa, e incluso llevaba una guitarra.`
 ` No tenía idea de que ella podía tocar.`
 `No, tal vez ella podía.`
 `{n}La he visto practicando con una guitarra de aire antes.`
-`Natsuhi-sama no aprobaría ninguna afición fuera del estudio.`
+`Natsuhi‐sama no aprobaría ninguna afición fuera del estudio.`
 `Tal vez ella siempre estuvo practicando en secreto.`
 `Ahora que lo pienso, últimamente ella vuelve muy tarde de la escuela.`
-`Tal vez ha estado practicando en la escuela, lejos de los ojos entrometidos de Natsuhi-sama.`
-`En verdad, sí que fue lo mejor que Natsuhi-sama no viniera.`
-` Si la Señorita fuese regañada por Natsuhi-sama después de dedicar tantas horas de práctica, probablemente se sentiría muy abatida...`
+`Tal vez ha estado practicando en la escuela, lejos de los ojos entrometidos de Natsuhi‐sama.`
+`En verdad, sí que fue lo mejor que Natsuhi‐sama no viniera.`
+` Si la señorita fuese regañada por Natsuhi‐sama después de dedicar tantas horas de práctica, probablemente se sentiría muy abatida...`
 `"""¡¡Jessie‐samaaaaaaaaaaaaaaa!!"""`
 `"¡Gracias a todos por venir aquí el día de hoooyyyyyyyy!"`
-`Pude escuchar la contundente voz de Jessica-sama a través de los altavoces.`
+`Pude escuchar la contundente voz de Jessica‐sama a través de los altavoces.`
 `¿Jessie‐sama?`
 ` Tal vez ese es su apodo en la escuela.`
 `Los estudiantes en el público no paraban de gritar ese nombre.`
-`{n}Me molestó un poco ese apodo, que era inapropiado para la Señorita.`
-`Jessica-sama estaba de muy buen humor mientras la llamaban Jessie-sama.`
+`{n}Me molestó un poco ese apodo, que era inapropiado para la señorita.`
+`Jessica‐sama estaba de muy buen humor mientras la llamaban Jessie‐sama.`
 `Probablemente todos ellos eran sus fans.`
 `{n}Con su presentación ante el micrófono, respondió a sus fans animando todo el lugar.`
 `{n}Era casi como un programa de canciones en la televisión.`
 `Al principio había pensado que todo esto era una frivolidad, pero ese sentimiento se ha transformado en aprecio. Esto era bastante increíble a su manera.`
 `Kanon nunca había escuchado música por voluntad propia, pero a menudo escuchaba el tipo de música que le gustaba a los miembros de la familia Ushiromiya.`
 `Como eso era casi todo música clásica, naturalmente a Kanon le había empezado a gustar la música clásica también.`
-`Así que para Kanon, las canciones que Jessica y los demás cantaban eran, cómo decirlo,`
-` muy modernas.`
-`En cualquier caso, él pensó que si Natsuhi-sama la escuchara, probablemente se desmayaría.`
+`Así que para Kanon, las canciones que Jessica y los demás cantaban eran... ¿Cómo decirlo...?`
+` Muy modernas.`
+`En cualquier caso, él pensó que si Natsuhi‐sama la escuchara, probablemente se desmayaría.`
 `Pero todo el mundo parecía estar pasándoselo muy bien.`
 `Los fans más acérrimos, que incluso habían traído varas luminosas, cantaron al unísono,`
 ` bailando enloquecidamente con los mismos movimientos, casi como si hubiera sido planeado de antemano.`
-`En el escenario, Jessica-sama también cantó con entusiasmo, derramando sudor.`
+`En el escenario, Jessica‐sama también cantó con entusiasmo, derramando sudor.`
 `Él no pudo encontrar un solo elemento que fuese apropiado para una hija de la familia Ushiromiya,`
 ` pero parecía que ella se estaba divirtiendo mucho.`
 `"""¡¡Jessie‐samaaaaaaaa!!`
 ` ¡¡¡Jessiiiiie, Jessiiiiiiiiiiie!!!"""`
 `"¡¡Muchas gracias!! ¡Bien, a continuación, tenemos una nueva canción para ustedes! ¡¡No Me Llames Un Mago Ordinario!!"`
 `No pude soportar el ambiente, pero...`
-` de todos modos, la Señorita estaba llena de vida y parecía que se lo estaba pasando muy bien.`
-`Mientras miraba a la Señorita pasándoselo bien, pensé...`
+` de todos modos, la señorita estaba llena de vida y parecía que se lo estaba pasando muy bien.`
+`Mientras miraba a la señorita pasándoselo bien, pensé...`
 `¿No es así como es realmente Ushiromiya Jessica?`
 `¿No sé mejor que nadie lo mal que la vida en Rokkenjima mata tu propio sentido de identidad?`
 `Entonces el tiempo que pasa, no como la sucesora de la familia Ushiromiya,`
 ` sino como una simple chica llamada Jessica viviendo la vida al máximo, debe de ser algo muy importante para ella.`
-`Yo trabajaba cerca de la Señorita, la veía en todas las estaciones, y creía que lo sabía todo sobre ella.`
-`Pero eso era solo un lado de ella, la Señorita que vivía en Rokkenjima.`
+`Yo trabajaba cerca de la señorita, la veía en todas las estaciones, y creía que lo sabía todo sobre ella.`
+`Pero eso era solo un lado de ella, la señorita que vivía en Rokkenjima.`
 `Nosotros somos muebles...`
 `{n}Servimos en Rokkenjima y terminamos nuestras vidas en Rokkenjima.`
 `Así que había llegado a pensar que la propia Rokkenjima era todo nuestro mundo, al igual que en las antiguas teorías geocéntricas,`
 ` en la que el océano se desborda hacia el vacío en el fin del mundo.`
-`Pero al observar a la Señorita, me di cuenta de que esta era una perspectiva horriblemente limitada.`
+`Pero al observar a la señorita, me di cuenta de que esta era una perspectiva horriblemente limitada.`
 `Yo todavía no podía soportar la emoción de la multitud...`
-`Pero sentí que había visto algo que "no puede ser {y:1:‘visto’}{n:1:visto}" en Rokkenjima.`
-`Aunque no sé si esto era eso {y:1:‘invisible’}{n:1:invisible} a lo que Shannon se refería.`
+`Pero sentí que había visto algo que "no puede ser visto" en Rokkenjima.`
+`Aunque no sé si eso era la cosa invisible a lo que Shannon se refería.`
 `Todavía no puedo ver el océano como azul...`
 `"¿Acaso no era hoy el festival cultural en la escuela de Jessica?`
 ` ¿Se encontraba bien el director?"`
@@ -383,13 +383,13 @@
 `Jessica contestó, desanimada.`
 `{n}Al ver eso, Krauss sonrió un poco e interrumpió su conversación con Natsuhi.`
 `"¿Cómo te fue en el festival, Jessica?"`
-`"¿Huh?`
+`"¿Eh?`
 ` Ah,`
 ` todo bien."`
-`"Fui a verte.`
+`"Te vi allí.`
 ` Hiciste un buen trabajo."`
-`"Huh, ¡¿huh?!`
-` Ah, ajajajaja, s-sí, supongo."`
+`"Eh, ¡¿Eh?!`
+` Ah, ajajajaja, s‐sí, supongo."`
 `Jessica se sonrojó.`
 `Ella seguramente no esperaba que Natsuhi viniera a verla en el escenario.`
 `Por lo que sintió una mezcla de felicidad y vergüenza.`
@@ -406,111 +406,111 @@
 `Ella no tenía ningún interés en algo tan molesto, pero sus padres habían sido tan persistentes que tuvo que aceptar de mala gana.`
 `Por desgracia, ella era popular en la escuela, por lo que había ganado las elecciones fácilmente.`
 `Entonces, Natsuhi la estaba alabando por la ceremonia organizada por el consejo estudiantil al comienzo del festival cultural.`
-`En realidad, ella solo lo había hecho a medias.`
+`De hecho, lo había hecho sin mucho entusiasmo.`
 `{n}Ella se había reunido inmediatamente con sus amigas, y había estado ensayando en el escenario el resto del tiempo.`
 `"La experiencia de ponerse de pie delante de las personas y asumir esa responsabilidad será definitivamente útil en el futuro.`
 ` Seguramente te ayudará a madurar como miembro de la familia Ushiromiya."`
 `"Pero dijiste el saludo un poco rápido.`
-` Has transmitido el contenido, pero tu estilo rápido de hablar lo estropea.`
+` Has transmitido el contenido, pero tu estilo rápido de hablar lo desmerece.`
 ` Sería bueno que desarrollaras el hábito de tomar un respiro de vez en cuando."`
 `"Sí..."`
 `Después de terminar de comer, Jessica no tenía ganas de ir directamente a su habitación.`
 `Su habitación era básicamente el lugar donde sus padres habían especificado que se quedara.`
-`Así que tal vez podrías decir que, para Jessica,`
-` decidir no volver a su propia habitación y, en cambio, desaparecer en un lugar desconocido de esta gran mansión fue una escasa forma de resistencia...`
+`Así que tal vez podría decirse que, para Jessica,`
+` decidir no volver a su propia habitación y, en cambio, desaparecer en un lugar desconocido de esta gran mansión fue una escasa forma de rebeldía...`
 `Jessica sentía que incluso estando en la mansión le resultaba difícil respirar, así que salió al jardín de rosas.`
-`"...............`
+`"...`
 ` Bueno, incluso si ella hubiera ido, me habría regañado diciendo que no era apropiado para la sucesora de la familia Ushiromiya de todos modos.`
 ` Entonces, ¿no es mejor así?.`
 ` Ajajajajajaja."`
 `Jessica se rio de lo enfurruñada que estaba.`
 `Se rio de la clase de palabras que habría tenido que recibir para quedar satisfecha.`
 `Qué ridículo...`
-` Al final, solo soy un niño mimado.`
+` Al final, solo soy una niña mimada.`
 `{n}Es casi cómico que no pueda creer en mi mismo.`
 `"Señorita..."`
-`"¡Wah! Kanon‐kun...`
-` N-no me asustes así, jajaja...`
-` *toser*toser*!"`
+`"¡Uah!—Kanon‐kun...`
+` ¡N‐no me asustes así, jajaja!`
+` ¡*cof*cof*!"`
 `Kanon empezó a hablarle de repente justo cuando ella había intentado forzar una risa, así que ella se atragantó.`
 `"¿Qué?`
-` ¿Tienes algo que decirme?"`
-`".....................`
-`umm."`
-`"¿Sí...?"`
+` ¿Qué ocurre?"`
+`"...`
+` umm."`
+`"¿Sí?"`
 `La expresión de Jessica se había convertido en la que Kanon siempre veía.`
 `{n}La Jessica desanimada de hace un segundo ha desaparecido.`
 `Si él siguiera conociendo a Jessica únicamente como la sucesora de la familia Ushiromiya, como lo hizo hasta hoy,`
 ` él habría pensado erróneamente que el humor de Jessica había vuelto a la normalidad.`
 `Pero eso era erróneo.`
-`Él ahora conocía una parte de ella que no había podido {y:1:‘ver’}{n:1:ver} hasta hoy, por lo que comprendió que no había forma de que, por dentro, Jessica se encuentre bien.`
+`Él ahora conocía una parte de ella que no había podido ver hasta hoy, por lo que comprendió que no había forma de que, por dentro, Jessica se encuentre bien.`
 `"Ah... Sobre el festival cultural de hoy...`
 ` Bueno, gracias por venir conmigo para que pudiera presumir.`
 ` Fuiste de mucha ayuda."`
-`"Eres buena...`
-` cantando."`
+`"Su canto...`
+` fue bueno."`
 `"¡¿Qué?!`
 ` Ah,`
 ` ajajajajajaja...`
-` ¿E-en serio? Estoy avergonzada..."`
+` ¿E‐en serio? Estoy avergonzada..."`
 `Aunque ella había escuchado las palabras que más quería oír,`
 ` Jessica se volvió tímida, y no pudo aceptarlas con franqueza.`
 `"Yo no sé cantar...`
 ` Y no sé tocar ningún otro instrumento que no sea la armónica y la flauta, que aprendí en la escuela primaria.`
-` Así que había asumido que era lo mismo para usted, Señorita."`
+` Así que había asumido que era lo mismo para usted, señorita."`
 `Kanon no había estado menospreciando conscientemente a Jessica hasta tal punto.`
-`Pero la gente que tocaba instrumentos únicos siempre estaba al otro lado de los tubos de Braun en la TV.`
-`Y Se le había metido en la cabeza que esto sería imposible para Jessica, al menos.`
+`Pero la gente que tocaba instrumentos únicos siempre estaba al otro lado de los tubos de rayos catódicos en la TV.`
+`Se le había metido en la cabeza que esto sería imposible para Jessica, al menos.`
 `"Yo soy un mueble...`
 ` Por lo que creía que no era necesario cantar o tocar instrumentos."`
 `Pero...`
 ` Ya no estoy tan seguro.`
 `"Kanon‐kun...`
-` en serio, basta con eso de "Yo soy un mueble"...`
+` en serio, basta con eso de "yo soy un mueble"...`
 ` Esto es algún tipo de mentalidad de sirviente, ¿verdad?`
 ` Eso de que "los sirvientes deben ser muebles vivientes".`
-` Genji-san habla mucho de eso."`
+` Genji‐san habla mucho de eso."`
 `"No es una mentalidad...`
 ` Realmente somos... muebles."`
 `"Sé que los niños de la Casa Fukuin reciben ayuda del abuelo de varias maneras...`
 ` Y me doy cuenta de que sientes gratitud por ello."`
 `"Pero eso no significa que debas llamarte a ti mismo un mueble.`
 ` ¿Acaso no eres un humano como los demás?"`
-`"........................"`
-`"Kanon-kun, cuando me viste cantar, ¿qué pensaste?"`
+`"..."`
+`"Kanon‐kun, cuando me viste cantar, ¿qué pensaste?"`
 `"Me parecía que te estabas divirtiendo mucho."`
 `"Probablemente no sea eso."`
-`"¿Huh...?"`
+`"¿Eh?"`
 `"No es solo que te pareciera que me estaba divirtiendo...`
 ` Estabas celoso, ¿no es así?"`
-`"...............`
+`"...`
 ` Yo..."`
 `Incluso el propio Kanon probablemente no había notado esa emoción.`
 `{n}Kanon había visto algo que nunca había visto o conocido antes, por lo que probablemente se había puesto celoso.`
 `Y para engañarse a sí mismo de esa emoción, se había llamado a sí mismo mueble una y otra vez...`
-`"Sé que soy la sucesora de la familia Ushiromiya o algo parecido...`
+`"Sé que soy la sucesora de la familia Ushiromiya o algo así...`
 ` Y, bueno, estoy segura de que también habrá un montón de cosas molestas por hacer en el futuro.`
 ` En cuanto a eso, solo me queda resignarme, simplemente tuve mala suerte."`
 `"Probablemente, al igual que tú tuviste que vivir en la Casa Fukuin, ninguno de nosotros tuvo elección.`
 ` No podemos elegir las estrellas bajo las que nacemos."`
 `"Eso puede ser cierto..."`
-`"Pero hay algo en lo que usted y yo somos completamente diferentes.`
-` ¿Sabe usted lo que es...?"`
+`"Pero hay algo en lo que tú y yo somos completamente diferentes.`
+` ¿Sabes lo que es?"`
 `Yo soy un mueble y usted no lo es.`
 `{n}Él estaba a punto de decir eso, pero se detuvo...`
 `"No lo sé..."`
-`"Kanon-kun, piensas que tu propio destino implica todo sobre ti, y te has rendido.`
+`"Kanon‐kun, piensas que tu propio destino implica todo sobre ti, y te has rendido.`
 ` Yo no puedo aceptar este tipo de destino, así que decidí dar lo mejor de mí."`
 `"Así que al igual que mi restringida y normal yo que tiene que actuar como la hija de la familia Ushiromiya,`
 ` He creado otra yo que pone todo su corazón en las cosas que le gustan."`
 `"Otro... yo.."`
 `"Sí.`
-` Kanon-kun, te has estado diciendo a ti mismo "soy un mueble".`
+` Kanon‐kun, te has estado diciendo a ti mismo "soy un mueble".`
 ` Estoy segura de que han habido muchas cosas difíciles que te han obligado a decírtelo a ti mismo."`
 `"Creo que eso es...`
 ` muy desafortunado.`
 ` Pero que eso determine toda tu vida, me parece muy triste."`
-`"................................."`
+`"..."`
 `"Sabes, las personas siempre pueden crear otro yo dentro de sí mismas que puedan llegar a querer.`
 ` No estoy hablando de escapar de la realidad, ¿de acuerdo?`
 ` Cuando soy esa otra parte de mí misma, puedo sentir que de verdad estoy viviendo una gran vida."`
@@ -519,28 +519,28 @@
 ` otro yo que puedas llegar a querer...`
 ` dentro de ti mismo..."`
 `Crear otro yo, que no sea un mueble...`
-`¿Shannon ha dado a luz a otra parte de sí misma que no es un mueble, por medio de su relación con George-sama?`
-`¿Y esta otra Shannon... vio algo que no puede ser {y:1:‘visto’}{n:1:visto} por un mueble?`
+`¿Shannon ha dado a luz a otra parte de sí misma que no es un mueble, por medio de su relación con George‐sama?`
+`¿Y esta otra Shannon... vio algo que no puede ser visto por un mueble?`
 `"Sí.`
 ` Bueno, yo no sé nada de tu vida privada, Kanon‐kun.`
 ` Pero, puedo adivinar.`
 ` Tu vida privada... probablemente... no exista.`
-` ¿Le atiné...?"`
+` ¿Le atiné?"`
 `Kanon no pudo responder, pero eso era suficiente.`
 `Él no tenía concepto de vida privada.`
 `Por eso, Kanon siempre será Kanon.`
 `{n}Por eso, un mueble siempre será un mueble.`
-`"......Kanon‐kun, "Kanon" no es tu nombre real, ¿verdad?"`
-`La casa Fukuin les dio a los nuevos estudiantes una nueva familia y una nueva vida, así que darles un nuevo nombres tambien era necesario.`
-`......En su caso, fue "Kanon".`
-`".........Ciertamente, ......ese nombre mío podría ser algo temporal."`
+`"Kanon‐kun, "Kanon" no es tu nombre real, ¿verdad?"`
+`La Casa Fukuin les dio a los nuevos estudiantes una nueva familia y una nueva vida, así que darles un nuevo nombres tambien era necesario.`
+`En su caso, fue "Kanon".`
+`"Por supuesto... ese nombre mío podría ser algo temporal."`
 `Él había pensado que no era nadie más que Kanon.`
-`......Pero él recordó.`
-`{n}...Había definitivamente una parte de él mismo que no era Kanon.`
+`Pero él recordó.`
+`{n}Había definitivamente una parte de él mismo que no era Kanon.`
 `{n}Pero eso estaba muy, muy lejos, más allá de la lejana niebla del olvido...`
-`"Así que incluso para ti, debería estar bien tener momentos en los que eres Kanon-kun, y momentos en los que no lo eres.`
-` Tal vez el Kanon-kun que eres cuando actúas como sirviente se llama a sí mismo muebles y limita estrictamente su propia voluntad."`
-`"Pero cuando no eres Kanon-kun, creo que está bien vivir mucho, mucho más libremente."`
+`"Así que incluso para ti, debería estar bien tener momentos en los que eres Kanon‐kun, y momentos en los que no lo eres.`
+` Tal vez el Kanon‐kun que eres cuando actúas como sirviente se llama a sí mismo un mueble y limita estrictamente su propia voluntad."`
+`"Pero cuando no eres Kanon‐kun, creo que está bien vivir mucho, mucho más libremente."`
 `Aquellas palabras no eran solamente palabrerías.`
 `Jessica también había sido así en el pasado.`
 `{n}Ella había maldecido su propio nacimiento en un ambiente diferente al de todos sus amigos en la escuela.`
@@ -564,7 +564,7 @@
 `"Kanon‐kun,`
 ` si no te importa, dime.`
 ` ¿Cuál es tu.. nombre real?"`
-`"................................."`
+`"..."`
 `Él se quedo en silencio por bastante tiempo.`
 `Tal vez su verdadero nombre estaba subiendo a la punta de la lengua.`
 `Después de dudar durante mucho tiempo sobre si debía decirlo,`
@@ -578,12 +578,12 @@
 ` El pasado no tiene nada que ver.`
 ` Al igual que no importa el nombre del árbol cuyo tronco se utilizó para crear un mueble."`
 `"¡He dicho que pares con eso!`
-` ¡Tú no eres un mueble, eres un ser humano! ¿Sabías?"`
+` ¡Tú no eres un mueble, eres un ser humano!"`
 `"¡Yo no soy humano!"`
 `Kanon dijo claramente su negativa.`
 `{n}Lo hizo con una rabia que normalmente no mostraba.`
 `Jessica no pudo contestar nada, y se quedó en silencio...`
-`"Usted es humana, Señorita.`
+`"Usted es humana, señorita.`
 ` Así que es libre de vivir como desee,`
 ` y cualquier tipo de futuro es posible para usted.`
 ` Es casi como si tuviera alas y pudiera danzar por el cielo como un ave."`
@@ -592,10 +592,10 @@
 ` Ellos pueden tener alas, pero no pueden volar."`
 `"¡Hablarme del sueño de volar por el cielo pese a eso,`
 ` es...`
-` demasiado cruel...!"`
+` demasiado cruel!"`
 `"¡¡Muebles, patos!!`
-` ¡¡Qué demonios es todo esto!!`
-` No, ..."`
+` ¡¡¿Qué demonios es todo esto?!!`
+` No..."`
 `Jessica había seguido inconscientemente la forma agresiva de hablar de Kanon, pero se dio cuenta de que no debía devolver el fuego, y se tragó sus palabras.`
 `"Yo no sé nada de ti.`
 ` Ni siquiera conozco tu educación, y no sé las dificultades por las que has pasado.`
@@ -603,49 +603,49 @@
 `"Pero sé esto.`
 ` Tú no eres un mueble o un pato.`
 ` Tú eres un humano de verdad."`
-`"................................."`
-`"Si quieres decir que el Kanon-kun que trabaja como sirviente es un mueble, está bien.`
+`"..."`
+`"Si quieres decir que el Kanon‐kun que trabaja como sirviente es un mueble, está bien.`
 ` Pero, en ese caso,`
 ` ¿no crees que puedes hacer otro "yo" para cuando no seas un mueble, cuando seas humano?"`
 `"Solo una humana como usted puede tener esa posibilidad.`
 ` Yo no soy así.`
 ` No tengo futuro, ni posibilidades, ni sueños que se me permitan ver."`
-`"Entonces, Señorita.`
+`"Entonces, señorita.`
 ` Por favor...`
 ` no diga más...`
 ` cosas crueles..."`
-`"¿Por qué...?`
+`"¿Por qué?`
 ` ¿Por qué... me estás diciendo eso?"`
-`"Porque parece que me está confundiendo con un humano como usted, Señorita.`
+`"Porque parece que me está confundiendo con un humano como usted, señorita.`
 ` Nosotros somos seres diferentes.`
 ` Solo quería dejar eso en claro."`
 `"Lo escuché de Shannon.`
 ` Algo acerca de que usted siente afecto por mí."`
-`"Huh, ¡¿huh?!`
-` Ah, .........no, wajaja..."`
+`"Eh, ¡¿Eh?!`
+` Ah... no, ajaja..."`
 `"Soy casi idéntico a la apariencia de un humano.`
 ` Por lo tanto, al igual que Shannon, tal vez podría mentirme a mí mismo diciendo que soy humano, y por un tiempo, fingir amar."`
-`"...Pero eso sería seguramente engañarme a mí mismo.`
-` No, también sería engañarla a usted, Señorita.`
-` Shannon y George-sama definitivamente se separarán.`
+`"Pero eso sería seguramente engañarme a mí mismo.`
+` No, también sería engañarla a usted, señorita.`
+` Shannon y George‐sama definitivamente se separarán.`
 ` La propia Shannon sabe que ese día llegará, y aun así hace esta... estupidez..."`
 `"¡¡No, no hay nada estúpido en ello!!`
-` George nii-san es una persona brillante, y está cumpliendo con las expectativas de sus padres."`
+` George nii‐san es una persona brillante, y está cumpliendo con las expectativas de sus padres."`
 `"¡Y sí, cuando se trata del matrimonio, estoy seguro de que la tía Eva va a interferir de muchas maneras, y, umm, creo que tienen un camino muy difícil por delante!`
-` ¡Pero ya sabes, George nii-san no es el tipo de persona que se rinde ante todo eso!`
+` ¡Pero ya sabes, George nii‐san no es el tipo de persona que se rinde ante todo eso!`
 ` Él no convertirá a Shannon en Julieta, ¡¡Definitivamente la hará feliz!!"`
 `"Las personas y los muebles no pueden amarse.`
-` Estoy tratando de decir que aunque usted pueda amar a un muebles, yo no puedo amarla, Señorita."`
-`"nn..."`
+` Estoy tratando de decir que aunque usted pueda amar a un muebles, yo no puedo amarla, señorita."`
+`"Nn—"`
 `Esas palabras de Kanon aplastaron todos los sentimientos agridulces de Jessica de hoy.`
 `No había forma de que ella pudiera anticipar las emociones de un rechazo tan cortante...`
 `En un instante, perdió la fuerza de voluntad que le había hecho intentar desentrañar el algo obstinado corazón de Kanon,`
-` y antes de que se diera cuenta, se quedó de pie en estado de shock...`
-`"Señorita, si sus sentimientos hacia mí es pura presunción mía, entonces le ruego que me perdone."`
+` y antes de que se diera cuenta, se quedó de pie atónita...`
+`"Señorita, si sus sentimientos hacia mí son debido a mi presunción, entonces le ruego que me perdone."`
 `"N‐no...`
-` Bueno, uh, no lo negaré."`
+` Bueno, eh... no lo negaré."`
 `"Muchas gracias..."`
-`"¿Huh...?"`
+`"¿Eh?"`
 `"Por pensar en mí como un humano,`
 ` muchas gracias.`
 ` Solo esos sentimientos me hacen verdaderamente feliz.`
@@ -665,7 +665,7 @@
 ` Si no regreso a mi habitación y apago las luces, mamá se enfadará conmigo otra vez.`
 ` Jajaja..."`
 `"Probablemente eso sería lo más apropiado.`
-` Le deseo buenas noches, Señorita."`
+` Le deseo buenas noches, señorita."`
 `"Sí...`
 ` Buenas noches..."`
 `Jessica se dio la vuelta y se alejó lentamente, con un aspecto desanimado.`
@@ -676,21 +676,21 @@
 `Fue por el bien de ella que se vio obligado a rechazarla ahora, mientras su dolor era aún mínimo.`
 `"Bien hecho, hacer llorar a una mujer de esa manera.`
 ` *carcajada*carcajada*.`
-` No esperaba que la rechazaras con tanta rudeza.`
+` No esperaba que la rechazaras con tanta ímpetu.`
 ` Si hubieras respondido normalmente, otro par de amantes hubiese surgido con mi magia."`
-`"¿Cuánto tiempo has estado ahí...?`
+`"¿Cuánto tiempo has estado ahí?`
 ` Eres una persona horrible."`
 `Cuando él se dio la vuelta, la bruja estaba de repente allí.`
 `{n}Parecía que había estado allí todo el tiempo, disfrutando de la escena como si fuera una obra de teatro.`
 `"Perdonaré tus imprudentes palabras hacia mí sólo por esta vez en deferencia a ese agradable espectáculo.`
 ` Incluso después de mil años, no existe un espectáculo más interesante que las complicaciones entre hombres y mujeres.`
 ` Para mí, es un placer adictivo más dulce que cualquier otra cosa.`
-` ¿nn...?"`
+` ¿Nn?"`
 `Kanon sacó el broche de mariposa de su bolsillo.`
 `{n}Era la cristalización de la gran magia que la bruja había otorgado.`
 `Sin dudar, lo arrojó con fuerza al suelo y lo pisoteó.`
-`"¿Hoh...?`
-` ¿Qué significa esto? ¿Sabias que eso algo dado por mí?"`
+`"¿Joh...?`
+` ¿Qué significa esto, cuando sabes que eso fue algo dado por mí?"`
 `"Me acabo de dar cuenta.`
 ` Lo que estás haciendo no es algo tan noble como ser el cupido del amor.`
 ` No eres más que un demonio que disfruta mostrando el amor a los que nunca podrán unirse, y engañándoles."`
@@ -703,7 +703,7 @@
 ` Y eso no es todo,`
 ` ¡Estás jugando con ella, cuando sabes muy bien cómo va a terminar todo!`
 ` ¡¿Me equivoco?!"`
-`"Hehheheheheh, *carcajada*!`
+`"¡Jejejejeje, *carcajada*!`
 ` Los muebles son unos seres totalmente lamentables.`
 ` ¿Así que tú no tienes sueños, ni futuro, ni siquiera amor?`
 ` Bien, bien, no hay nada mejor que conocer tu lugar.`
@@ -712,30 +712,30 @@
 `"Tal y como sospechabas, había un tenue sentimiento de amor que crecía en el corazón de Jessica.`
 ` Tienes la impresión de haberla cortado, de haberla cosechado."`
 `"Sin embargo, ¿lo sabías?`
-` Los árboles crecen con ramas más gruesas si las cortas, en lugar de dejarlas crecer de forma desenfrenada... ¡Una chica que ama los muebles, interesante, verdaderamente interesante!!`
+` Los árboles crecen con ramas más gruesas si las cortas, en lugar de dejarlas crecer de forma desenfrenada... ¡Una chica que ama los muebles, interesante, verdaderamente interesante!`
 ` Shannon y George también acabarán llegando a un punto muerto con su amor irrealizable, y producirán justo el tipo de fruto grande que me gusta."`
 `"Sin embargo, a mi pesar, se han llevado tan bien que no es interesante, ¿ves?`
 ` ¡En ese sentido, creo que ustedes dos me entretendrán bastante, *carcajada*carcajada*!"`
 `La bruja se reía.`
 ` Aunque ella sabía que esos dos no podrían estar juntos, había prestado su magia para unirlos.`
 `Sin embargo, ellos no podían escapar del destino que hacía imposible que estén juntos.`
-`......La bruja sabía eso.`
+`La bruja sabía eso.`
 `Incluso si estuvieran juntos, las relaciones de Shannon y George, Kanon y Jessica fracasarían con total seguridad,`
 ` y mientras vagaran por el desierto eterno en el infierno del amor, serían atormentados por la sed eterna...`
 `"¿Creías que les prestaría ese poder sin ningún tipo de compensación?`
 ` Cuando ayudo a alguien en el amor,`
 ` mi compensación siempre será asiento en primera fila para presenciar el cruel destino que les espera a ambos.`
-` ¡Incluso después de mil años, no existe un mejor espectáculo...!"`
+` ¡Incluso después de mil años, no existe un mejor espectáculo!"`
 `"Basta con ver a Kinzo.`
 ` ¡Mira cómo acabó, un viejo lamentable que conoció el sabor del amor y fue expulsado del Paraíso!`
-` Ves cómo vive, como un muerto que no puede morir del todo.`
-` *carcajada*carcajada*!!"`
+` Mira cómo vive, como un muerto que no puede morir del todo.`
+` ¡¡*carcajada*carcajada*!!"`
 `"Realmente eres una bruja.`
-` ¡¡Fuera de mi vista, demonio...!!"`
+` ¡¡Fuera de mi vista, demonio!!"`
 `"Desapareceré de todos modos.`
 ` Mi poder aún no ha regresado, como ves.`
 ` Aún me es agotador estar mostrándome a mi misma."`
-`"Me excedí cuando les di mi poder a ustedes los amantes.`
+`"Me excedí cuando les di mi poder a ustedes, amantes.`
 ` Tal y como estoy ahora, no será fácil mantener ese poder sin ese broche como catalizador."`
 `Kanon aplastó aún más el broche con su pie.`
 `{n}Sintió que se rompía bajo su pie.`
@@ -755,9 +755,9 @@
 ` Asegúrate de que no te arrepentirás de la llegada de ese día en ningún momento.`
 ` Yo seguramente tendré una segunda aparición y controlaré todo como el verdadero amo de esta isla.`
 ` Y en ese momento, la puerta de la Tierra Dorada se abrirá de nuevo.`
-` ¡Los codiciosos y los avaros me llamarán sin falta...!"`
+` ¡Los codiciosos y los avaros me llamarán sin falta!"`
 `"¡¡Suficiente!!`
-` ¡¡Desaparece, ahora, Bruja Dorada...!!"`
+` ¡¡Desaparece, ahora, Bruja Dorada!!"`
 `Dejando atrás una risa burlona, la bruja se convirtió en mariposas doradas y desapareció.`
 `Toda la zona brillaba como una ventisca dorada en una bola de nieve.`
 `Fue una escena fantástica y fugaz que desapareció en un santiamén...`
@@ -772,7 +772,7 @@
 `Y yo disfruto someter a esos humanos para aliviar mis mil años de aburrimiento.`
 `Así que no poder controlar a los muebles. ¡Qué situación tan interesante de piedra papel o tijeras!`
 `¡Kinzo, tus propiedades son realmente interesantes!`
-`¡Mueble, intenta ver si me puedes cazar...!`
+`¡Mueble, intenta ver si me puedes cazar!`
 `Esta noche se han sembrado las dos semillas de amor.`
 `¡Incluyendo la que ya fue sembrada, suman tres!`
 `"{f:5:Beatrice}...`
@@ -786,34 +786,34 @@
 ` ¡¡Aunque creía que al menos mi más viejo amigo entendería mi dolor!!`
 ` ¡¿Por qué es incomprensible para ti?!"`
 `"¡¡Oooooohhh, {f:5:Beatriceeee}!!`
-` ¡¡¿Por qué me dejaste sooooolo...?!!"`
-`"..........................."`
+` ¡¡¿Por qué me dejaste sooooolo?!!"`
+`"..."`
 `"¡Uuuuughhu!`
-` ¡Hic, hic...!`
+` ¡*hip*, *hip*!`
 ` ¡¿Qué demonios significa eso de ser un mueble?!`
-` ¡¿De qué se trata toda esta mierda...?!`
+` ¡No lo entiendo en absoluto!`
 ` ¡¡Uuuuuuuuuughhu!!"`
-`"Ohhh, qué desgarrador, Jessica-sama.`
+`"Ohhh, qué desgarrador, Jessica‐sama.`
 ` Aunque pueda darme una idea de la situación debido a que puedo escuchar su voz llorosa desde su habitación, no hay nada que yo pueda hacer."`
 `"Todo esto es una tragedia causada por una pareja que es demasiado joven para andar juntos, cuando las posiciones de su nacimiento son demasiado distantes.`
-` ...I can do nothing but understand Milady's feelings, and walk away quietly with silent feet..."`
+` No hay nada que pueda hacer además de entender los sentimientos de la señorita, y alejarme silenciosamente con pies silenciosos..."`
 `"Umm,`
-` ¿Q-`
+` ¿Q‐`
 `qué...`
 ` es lo que quiere decir con eso,`
-` George‐san...?"`
+` George‐san?"`
 `"Es exactamente lo que dije.`
 ` Todavía no he construido mi castillo.`
 ` Una vez que lo haya hecho, por primera vez podré pensar en mí mismo como un adulto.`
 ` Cuando eso ocurra, quiero casarme contigo."`
 `"E,`
 ` eso es, umm,`
-` ......err..."`
+` err..."`
 `"Sin embargo,`
 ` mi corazón no me permite esperar hasta que eso ocurra.`
 ` Así que quiero darte un anillo de compromiso."`
-`"Com... compromiso...`
-` ¿Dices...?`
+`"¿Com... compromiso...`
+` dices...?`
 ` Pero, umm,`
 ` Yo soy...`
 ` un mue...`
@@ -833,4 +833,4 @@
 ` Eso te lo prometo, sin ninguna duda."`
 `¡Estoy ansiosa de ver cómo madura esta dulce fruta!`
 `Después de todo, las mariposas doradas no pululan sobre el zumo de la fruta sobremadura y podrida.`
-`¡No puedo esperar a que llegue el día de la cosecha! ¡El banquete ya ha comenzado!{n}¡¡*carcajada*carcajada*jajajajajajajajajaja{0}ja{0}ja{0}ja{0}ja{0}ja{0}ja{0}ja{0}ja{0}jajaja...!!`
+`¡No puedo esperar a que llegue el día de la cosecha! ¡El banquete ya ha comenzado!{n}¡¡*carcajada*carcajada*jajajajajajajajajaja{0}ja{0}ja{0}ja{0}ja{0}ja{0}ja{0}ja{0}ja{0}jajaja!!`
