@@ -1,8 +1,8 @@
 `Ellas habían desayunado en una cafetería de la estación.`
-`Por coincidencia, el interior de la tienda había sido decorado con los colores de Halloween, ya que era octubre.`
-`Al parecer, a María le había gustado mucho esa decoración.`
+`Por coincidencia, el interior había sido decorado con los colores de Halloween, ya que era octubre.`
+`Al parecer, a Maria le había gustado mucho esa decoración.`
 `Y desde entonces ella había estado haciendo un berrinche dentro del tren por querer una fiesta de Halloween, sin importarle que estuviera llamando la atención de los demás.`
-`Halloween es popular en Europa y América, pero en Japón apenas y se conoce.`
+`Halloween es popular en Europa y América, pero en Japón apenas se conoce.`
 `El distrito comercial estaba decorado con calabazas naranjas,`
 ` pero los desfiles de disfraces de niños pidiendo caramelos y diciendo "dulce o truco" no estaban a la vista.`
 `"¡Uu!`
@@ -12,14 +12,14 @@
 `"No iremos a la conferencia familiar para jugar.`
 ` Iremos a visitar al abuelo, así que tienes que vestirte adecuadamente."`
 `Aunque el tren no estaba completamente lleno, había suficiente gente como para que casi todos los asientos estuvieran ocupados.`
-`Entre ellos, María estaba haciendo un berrinche, pateando los pies de un lado a otro en su asiento, mientras Rosa le fruncía el ceño.`
-`Rosa le había dicho muchas veces en voz baja que se detuviera, pero María no le hacía caso.`
-`Una vez que María se pone así, por mucho que intentes explicarle la situación o calmarla, no te escuchará.`
-`En el pasado, Rosa solía consentir a María y ceder a berrinches como este.`
+`Entre ellos, Maria estaba haciendo un berrinche, pateando los pies de un lado a otro en su asiento, mientras Rosa le fruncía el ceño.`
+`Rosa le había dicho muchas veces en voz baja que se detuviera, pero Maria no le hacía caso.`
+`Una vez que Maria se pone así, por mucho que intentes explicarle la situación o calmarla, no te escuchará.`
+`En el pasado, Rosa solía consentir a Maria y ceder a berrinches como este.`
 `Pero probablemente eso fue un error.`
-`Seguramente, la joven María se había formado la idea equivocada de que si seguía quejándose ruidosamente, su madre cedería y la escucharía.`
+`Seguramente, la joven Maria se había formado la idea equivocada de que si seguía quejándose ruidosamente, su madre cedería y la escucharía.`
 `Ese error había llegado a oídos de Rosa a través de un libro educativo, y desde entonces había endurecido su corazón para no malcriar a su querida hija...`
-`Pero Rosa conseguía cada vez menos entendimiento mutuo con María, y cada vez era más frecuente que se sintiera desalentada por su propia impotencia....`
+`Pero Rosa conseguía cada vez menos entendimiento mutuo con Maria, y cada vez era más frecuente que se sintiera desalentada por su propia impotencia...`
 `"¡¡Halloween, Halloween!!`
 ` ¡¡Dulce o truco, uu‐uu‐uu!!"`
 `"¡No te voy a dar ningún dulce!`
@@ -27,19 +27,19 @@
 `"¡Dulce o truco!`
 ` ¡Dulce o truco!`
 ` ¡¡Uu‐uu‐uu!!"`
-`Mientras María pataleaba, una anciana corpulenta sentada en el asiento de enfrente sacó un caramelo de su bolso y se lo dio.`
-`"¡Uu! ¡Tengo un Dulce, tengo un Dulce!`
+`Mientras Maria pataleaba, una anciana corpulenta sentada en el asiento de enfrente sacó un caramelo de su bolso y se lo dio.`
+`"¡Uu! ¡Tengo un dulce, tengo un dulce!`
 ` ¡Mira, mira, mamá,`
 `  mamá!`
-` ¡Happy Hallowee~n!"`
-`"¡María! ¡Recuerda que no debes aceptar dulces de extraños!`
+` ¡{i:Happy Hallowee~n}!"`
+`"¡Maria! ¡Recuerda que no debes aceptar dulces de extraños!`
 ` ¡¡Devuélvelo!!"`
-`"No hay ningún problema, hoh‐hoh‐ho.`
+`"No hay ningún problema, jo‐jo‐jo.`
 ` Es una jovencita encantadora.`
 ` ¿Qué edad tiene?"`
 `Puede que no haya habido malicia en aquellas palabras de la anciana.`
 `{n}Pero parecía que Rosa se lo había tomado de una manera extremadamente humillante.`
-`"¡María! ¡¡Siempre te he dicho que no aceptes dulces de extraños!!"`
+`"¡Maria! ¡¡Siempre te he dicho que no aceptes dulces de extraños!!"`
 `"¡Uu!`
 ` ¡¡Uu!!`
 ` ¡¡Este es mío!!`
@@ -54,11 +54,11 @@
 ` ¡¡Uuu‐uuu!!"`
 `"¡¡Ya te he dicho dejes de decir ese "uu‐uu"!!"`
 `"¡¡¡Uu‐uu‐uu‐uu‐uu‐uu‐uu‐uu!!!"`
-`Rosa abofeteó violentamente a María en la mejilla por reflejo.`
-`{n}En un instante, María empezó a llorar a gritos.`
-`Rosa arrebató inmediatamente el caramelo de la mano de María y lo extendió hacia la estupefacta anciana sentada junto a ellas.`
+`Rosa abofeteó violentamente a Maria en la mejilla por reflejo.`
+`{n}En un instante, Maria empezó a llorar a gritos.`
+`Rosa arrebató inmediatamente el caramelo de la mano de Maria y lo extendió hacia la estupefacta anciana sentada junto a ellas.`
 `"¡Por favor, no le de dulces a mi hija!"`
-`"Yo... Lo siento mucho..."`
+`"Yo... lo siento mucho..."`
 `Con la respiración agitada, Rosa le extendió de nuevo el caramelo a la anciana.`
 `La mujer pareció confundida por un momento sobre qué debería decir,`
 ` pero luego comprendió que tal vez sus acciones podían haber causado problemas a esta madre y a su hija, y aceptó el caramelo de vuelta, disculpándose...`
@@ -68,41 +68,41 @@
 `Salvo por el sonido del tren en marcha, el vagón estaba completamente silencioso.`
 `Por suerte, ese penoso silencio no duró más que un breve momento.`
 `{n}Sin embargo, en su lugar llegó una atmósfera aún más penosa mientras todos susurraban.`
-`María gritó, lloró y pataleó fuerte como de costumbre, sin prestar atención a las personas sentadas a su alrededor.`
+`Maria gritó, lloró y pataleó fuerte como de costumbre, sin prestar atención a las personas sentadas a su alrededor.`
 `Impulsivamente, Rosa intentó abofetearla de nuevo,`
 ` pero notó los ojos fríos de la gente en el tren, y ya no pudo hacerlo.`
-`Cuando el tren se detuvo, Rosa se bajó, tirando por la fuerza a María del brazo, casi arrastrándola por el suelo.`
-`Como es habitual, María no dejó de llorar.`
+`Cuando el tren se detuvo, Rosa se bajó, tirando por la fuerza a Maria del brazo, casi arrastrándola por el suelo.`
+`Como es habitual, Maria no dejó de llorar.`
 `Rosa la llevó hasta el final del andén y la abofeteó de nuevo en la mejilla.`
-`En el momento en que fue abofeteada, María dejó de llorar por un instante, pero al poco tiempo, gritó y lloró aún más que antes.`
-`Rosa, cuyas emociones habían estallado, agarró a María por el cuello de la camisa y le tiró del pelo como si se lo fuera a arrancar.`
+`En el momento en que fue abofeteada, Maria dejó de llorar por un instante, pero al poco tiempo, gritó y lloró aún más que antes.`
+`Rosa, cuyas emociones habían estallado, agarró a Maria por el cuello de la camisa y le tiró del pelo como si se lo fuera a arrancar.`
 `"¡¡Uu!!`
 ` ¡¡Uu‐uu‐uu!!`
 ` ¡¡Uu!!`
 ` ¡¡Mamá, duele, mamá, duele!!`
 ` ¡¡Uu‐uu‐uu!!"`
 `"¡¿No escuchas lo que te estoy diciendo?!`
-` ¡Ese "uu-uu" tuyo!`
-` ¡¡Te estoy diciendo que pares con eso!!"`
+` ¡Ese "uu‐uu" tuyo!`
+` ¡¡Te estoy diciendo que PARES con eso!!"`
 `"¡Esa es la razón por la que no puedes hacer amigos en clase! ¡¿Acaso no lo entiendes?!`
 ` ¡¡Reacciona!!`
 ` ¡¡¿Por qué siempre tienes que actuar como una niña de jardín infantil?!!`
 ` ¡¡¿Por qué no puedes hacer lo que dice mamá?!!`
 ` ¡¡¿Por qué?!!`
 ` ¡¡¡¿Por qué?!!!"`
-`Junto con esas severas palabras, Rosa golpeó la cabeza de María una y otra vez.`
-`{n}Cuanto más lloraba y gritaba María, más la golpeaba Rosa.`
-`{n}Y cuanto más golpeada era María, más intensamente lloraba y gritaba...`
-`"¡Duele, mamá...!`
-` ¡Duele, mamá...!`
-` ¡Sálvame Mamá, sálvame mamá...!`
+`Junto con esas severas palabras, Rosa golpeó la cabeza de Maria una y otra vez.`
+`{n}Cuanto más lloraba y gritaba Maria, más la golpeaba Rosa.`
+`{n}Y cuanto más golpeada era Maria, más intensamente lloraba y gritaba...`
+`"¡Duele, mamá!`
+` ¡Duele, mamá!`
+` ¡Mamá, sálvame, mamá, sálvame!`
 ` ¡¡Uu‐uu‐uu‐uu!!"`
 `"¡¡¿Por qué no puedes dejar de decir ese "uu‐uu"?!!`
 ` ¡¡Es porque eres así que no puedes hacer amigos!!`
 ` ¡¡Es porque eres así que papá nunca vuelve de su viaje de negocios!!`
 ` ¡¡Es porque eres así que yo...!!"`
-`"D‐disculpe señora, ¿ocurre algo malo...?"`
-`"¡¿Qué es {i:lo} que {i:quieres}?!"`
+`"D‐disculpe señora, ¿ocurre algo malo?"`
+`"¡¿Qué es lo que {i:quieres}?!"`
 `El que la llamó tímidamente fue el empleado de la estación.`
 `{n}Rosa lo fulminó con una mirada que decía "no te metas en los problemas de una madre y su hija".`
 `El empleado de la estación seguramente no quería hablar con ella.`
@@ -111,26 +111,26 @@
 `Rosa le gritó al empleado de la estación que se subirían al próximo tren y que no las molestara más.`
 `Y entonces, finalmente, o tal vez deberíamos decir, por segunda vez, ella se dio cuenta de que los pasajeros en el andén la miraban desde la distancia.`
 `Rosa estaba ligeramente sudada y sentía que el viento enfriaba su sudor, atormentándola.`
-`María seguía llorando, protegiendo su propia cabeza.`
+`Maria seguía llorando, protegiendo su propia cabeza.`
 `{n}A menos que esta golpiza se detenga, probablemente seguiría llorando para siempre.`
-`"........................`
+`"...`
 ` Lo he...`
 ` vuelto a hacer..."`
 `Mientras Rosa se recuperaba del calor del momento, dentro de su cabeza,`
 ` ella sabía que había entregado su alma a algo malvado otra vez.`
 `"¡Mamá, mamá!`
-` ¡Mamá, regresa...!`
+` ¡Mamá, regresa!`
 ` ¡Uu!`
 ` ¡¡Uu‐uu‐uu‐uu!!"`
-`Rosa cayó sobre sus rodillas y abrazó a María, cuya cara estaba empapada de lágrimas y mocos.`
-`"María... lo siento... lo siento..."`
+`Rosa cayó sobre sus rodillas y abrazó a Maria, cuya cara estaba empapada de lágrimas y mocos.`
+`"Maria... lo siento... lo siento..."`
 `"Mamá, mamá...`
 ` Bienvenida de vuelta, bienvenida de vuelta..."`
-`Finalmente, María se dio cuenta de que su madre había vuelto a ser su madre.`
+`Finalmente, Maria se dio cuenta de que su madre había vuelto a ser su madre.`
 `{n}Entonces, ella se aferró al cuerpo de su madre y lloró, apoyando su rostro en el pecho de su madre.`
 `"Perdona a tu mala mamá...`
 ` Perdona a tu mala mamá...`
-` ¡Lo siento tanto...!`
+` ¡Lo siento tanto!`
 ` Por favor, no odies a mamá..."`
 `"Uu...`
 ` Estoy bien...`
@@ -142,39 +142,39 @@
 ` Lo siento, de verdad que lo siento..."`
 `Durante mucho tiempo, las dos se abrazaron, pidiendo perdón y perdonando.`
 `Al cabo de un rato, ambas se fueron calmando y separaron sus rostros con naturalidad.`
-`Tanto María como rosa tenian el rostro enrojecido despues de haber llorado a cantaros.`
-`"¿Quieres tener una fiesta de Halloween, María?"`
+`Tanto Maria como Rosa tenian el rostro enrojecido despues de haber llorado a cantaros.`
+`"¿Quieres tener una fiesta de Halloween, Maria?"`
 `"Sí.`
-` Quiero mostrarles el malvavisco de calabaza a George onii-chan y Jessica onee-chan..."`
+` Quiero mostrarles el malvavisco de calabaza a George onii‐chan y Jessica onee‐chan..."`
 `Ese era un caramelo que había estado al lado de la caja registradora de la tienda donde ellas habían desayunado.`
 `Era un dulce extravagante que tenía un gran malvavisco naranja con forma de calabaza de Halloween clavado en el extremo de un palito.`
-`María lo quería y molestaba insistentemente a su madre para que se lo diera.`
+`Maria lo quería y molestaba insistentemente a su madre para que se lo diera.`
 `{n}Rosa se lo había negado, diciendo que de ninguna manera le compraría un dulce justo después de haber desayunado.`
-`"Bien, entonces, María.`
+`"Bien, entonces, Maria.`
 ` No sé si los venden en esta ciudad o no, pero vayamos y tratemos de buscar uno, ¿está bien?"`
-`"¡u, sí!`
+`"U... ¡sí!`
 ` Te quiero mamá, te quiero tanto...`
 ` Gracias..."`
-`"Yo también te quiero, María......."`
+`"Yo también te quiero, Maria..."`
 `La verdad es que ellas no tenían tiempo para andar dando vueltas por la estación.`
 `{n}Si perdían el avión, se retrasarían medio día.`
-`Rosa debería de haber salido de casa más temprano, pero acabó saliendo tarde después de pasar demasiado tiempo eligiendo la ropa de María.`
+`Rosa debería de haber salido de casa más temprano, pero acabó saliendo tarde después de pasar demasiado tiempo eligiendo la ropa de Maria.`
 `Debido a eso, Rosa había estado un poco impaciente desde la mañana.`
 `Ella miró su reloj.`
 ` Ellas deberían subir al siguiente tren inmediatamente.`
 `Pero su hija sostenía firmemente su mano, dispuesta a ir a comprar caramelos, y sentía esa mano reconfortante.`
-`En este momento, para Rosa era más importante reconstruir sus lazos con María.`
-`María no solo era la amada hija de Rosa, sino que era todo lo que Rosa tenía.`
+`En este momento, para Rosa era más importante reconstruir sus lazos con Maria.`
+`Maria no solo era la amada hija de Rosa, sino que era todo lo que Rosa tenía.`
 `Afortunadamente, ella pudo encontrar un gran supermercado justo en frente de la estación.`
-`{n}Tal vez no sería capaz de encontrar un dulce exactamente igual, pero María probablemente aceptaría algo similar.`
+`{n}Tal vez no sería capaz de encontrar un dulce exactamente igual, pero Maria probablemente aceptaría algo similar.`
 `Además, Rosa tampoco podía presentarse con los ojos hinchados de tanto llorar.`
 `{n}Ella tendría que arreglar su maquillaje.`
 `"Puede que no encontremos un malvavisco exactamente igual, pero espero que podamos encontrar un dulce parecido.`
 ` Y entonces, vamos a sorprender a todos tus primos con el."`
 `"Sí.`
-` Si es un dulce que compraré junto a mamá, cualquiera estará bien."`
+` Si es un dulce que compré junto a mamá, cualquiera estará bien."`
 `Las dos salieron de la estación de esta desconocida ciudad.`
-`{n}María cruzó el paso de peatones junto a su madre, sintiéndose muy contenta, como si estuviera caminando en un parque de atracciones.`
+`{n}Maria cruzó el paso de peatones junto a su madre, sintiéndose muy contenta, como si estuviera caminando en un parque de atracciones.`
 `Los rostros de ambas estaban todavía enrojecidos,`
 ` pero la afectividad se veía entre ambas, madre e hija, mientras se sonreían de manera embarazosa...`
 `"Cariño.`
@@ -193,13 +193,13 @@
 ` Por eso mismo, puedo dedicarme completamente a mi trabajo."`
 `"Lo entiendo.`
 ` Puedes centrarte en tus proyectos.`
-` Y también al tema de la herencia de Padre, ¿no?"`
+` Y también al tema de la herencia de padre, ¿no?"`
 `"Eso no tiene nada que ver contigo.`
 ` No es otra cosa que mis codiciosos hermanos rebuscando en la carne podrida."`
 `"Está bien, cariño.`
 ` Todo saldrá bien.`
-` Tus proyectos nunca han salido mal."`
-`"....................."`
+` Tu trabajo nunca ha salido mal."`
+`"..."`
 `Natsuhi se acurrucó suavemente cerca del hombro de Krauss.`
 `Ella dijo palabras esas para reconfortar a Krauss por las dificultades de su trabajo, pero la propia Natsuhi era la que mejor sabía que no iba bien.`
 `Los emprendimientos de Krauss eran algo así como un columpio en el que se balanceaban grandes cantidades de dinero.`
@@ -228,7 +228,7 @@
 ` No habría fallado ni una sola vez."`
 `"Sí, es cierto.`
 ` Tu intuición nunca es errónea.`
-` Tú eres el único que ha heredado el don de Padre.`
+` Tú eres el único que ha heredado el don de padre.`
 ` Heredaste una cualidad innata que ninguno de tus hermanos posee."`
 `"¡Sin embargo, no soy capaz de creer en esa cualidad!`
 ` Siempre abandono mis propios proyectos como un cobarde..`
@@ -239,7 +239,7 @@
 ` mi padre, mi madre,`
 ` y mis hermanos, todos se burlan de mí...`
 ` ¿Cuánto tiempo pasará hasta que pueda superar este complejo?`
-` ¿Cuánto tiempo...?"`
+` ¿Cuánto tiempo?"`
 `Solo Natsuhi lo sabía.`
 `Ella sabía acerca de la angustia de Krauss.`
 ` Como hijo mayor de la familia Ushiromiya, quien debía cargar con una gran responsabilidad, no podía abrir su doloroso corazón a nadie, y siempre era comparado con las grandes hazañas de su padre...`
@@ -247,18 +247,18 @@
 ` Todo está listo."`
 `"Lo siento...`
 ` ¿Habrá algún problema...`
-` con respecto a Padre?"`
+` con respecto a padre?"`
 `"No.`
 ` Genji y el Doctor Nanjo están de nuestro lado.`
-` No permitiré que esos hermanos codiciosos se encuentren con Padre."`
-`"Aló, al habla Gohda.`
+` No permitiré que esos hermanos codiciosos se encuentren con padre."`
+`"Hola, al habla Gohda.`
 ` ¡Sí, por favor, déjemelo a mí!`
 ` Estoy emocionado por poner mis habilidades al servicio del gran evento anual."`
 `Se habían reunido en la cocina ingredientes de variados colores, y ya se habían iniciado los preparativos.`
 `Aunque todavía era por la mañana, los ingredientes de la cena ya estaban en las cacerolas y humeando.`
 `Generalmente, él se ocupaba de otros asuntos aparte de preparar la comida, pero en el día de la conferencia familiar, él podía dedicarse por completo a eso.`
 `Para Gohda, quien originalmente era chef, esta era sin duda la mayor ocasión de gala de todo el año.`
-`"¡Sí, la cena será un excelente filete de ternera...!`
+`"¡Sí, la cena será un excelente filete de ternera!`
 ` Un maravilloso corte de carne ya está en la nevera esperando ansiosamente para esta noche.`
 ` Por favor, comunique a los demás sirvientes las expectativas para esta noche, yo no les voy a defraudar a ellos tampoco."`
 `Era raro que Gohda estuviera de tan buen humor con sus compañeros de servicio.`
@@ -272,19 +272,19 @@
 `"Así que está holgazaneando de nuevo.`
 ` No, eso está bien.`
 ` Muy bien entonces, cuento contigo."`
-`"¡Sí, déjemelo todo a mí...!"`
+`"¡Sí, déjemelo todo a mí!"`
 `Genji colgó el teléfono, suspirando ligeramente.`
 `Pensando en Kumasawa, quien sin duda se escondía y holgazaneaba a pesar de que las cosas estaban tan ajetreadas,`
 ` y en el ostentoso Gohda, quien solo tenía ganas de hacer algo en un día en el que podía presumir, Genji suspiró una vez más.`
 `"Con permiso.`
 ` Todas las habitaciones de la casa de huéspedes han sido preparadas."`
-`"Hemos recibido instrucciones de la Señorita de hacer preparativos para cuatro personas para que los niños puedan quedarse allí, ¿qué deberíamos hacer?"`
-`"He escuchado que Battler-sama vendrá este año por primera vez en seis años.`
-` Supongo que la Señorita quiere quedarse hasta tarde con los otros tres primos.`
+`"Hemos recibido instrucciones de la señorita de hacer preparativos para cuatro personas para que los niños puedan quedarse allí, ¿qué deberíamos hacer?"`
+`"He escuchado que Battler‐sama vendrá este año por primera vez en seis años.`
+` Supongo que la señorita quiere quedarse hasta tarde con los otros tres primos.`
 ` Completen esa tarea.`
-` No hace falta que se lo digan a la Señora."`
+` No hace falta que se lo digan a la señora."`
 `"Ya veo.`
-` Ciertamente."`
+` Como usted diga."`
 `"Así que esta noche, cubriremos el turno de noche, seguido inmediatamente por el turno de la mañana.`
 ` Parece que estos dos días serán agotadores."`
 `"Hablando de eso, el reporte meteorológico mencionó que un tifón golpeará justo esta área...`
@@ -295,8 +295,8 @@
 `"Shannon, relájate y no entres en pánico.`
 ` Kanon, asegúrate de saludarlos con cortesía."`
 `"S‐sí.`
-` Seré cuidadosa."`
-`"Seré cuidadoso."`
+` Tendré cuidado."`
+`"Tendré cuidado."`
 `"Hoy recibiremos a un huésped muy importante.`
 ` Asegúrense de que todo salga bien."`
 `"Lo entiendo perfectamente.`
@@ -308,7 +308,7 @@
 `"Sí."`
 `"Shannon, ¿qué sucede?`
 ` Pareces estar inquieta... ¿Prometiste estar en algún lugar?"`
-`"¿Huh?`
+`"¿Eh?`
 ` N‐no, no es nada.`
 ` Mis disculpas..."`
 `"Nee‐san.`
@@ -316,15 +316,15 @@
 ` Despréndete de tu vida privada."`
 `"Yo no, no sé a qué te refieres por vida privada..."`
 `Mientras Shannon se sonrojaba un poco, apartó la mirada del reloj.`
-`¿Ya es hora de que el avión que llevaba a la familia llegara a Niijima?`
+`¿Era ya la hora de que el avión que llevaba a la familia llegara a Nijima?`
 `{n}Ella había creído ocultar que su esperado reencuentro con George le hacía palpitar el corazón, pero Kanon, quien estaba a su lado, la comprendía perfectamente.`
-`"¡Shannon, por favor, acepta esto de mí sin decir nada...!"`
+`"¡Shannon, por favor, acepta esto de mí sin decir nada!"`
 `En el interior de un cubículo de un baño, George estaba practicando una y otra vez, sacando una pequeña caja de terciopelo escondida en su bolsillo como un pistolero del viejo oeste.`
 `"No, así no...`
 ` A Shannon le gustan los hombres valerosos.`
-` ¡Debo decirlo de una manera más imponente...!"`
+` ¡Debo decirlo de una manera más imponente!"`
 `"Shannon, ponte esto en el dedo anular.`
-` E-es una orden, ¿de acuerdo...?"`
+` E‐es una orden, ¿de acuerdo?"`
 `"¡Aah, si no digo que debe ser en la mano izquierda, a lo mejor se lo pone en la derecha!`
 ` N‐no, Shannon no es tan ignorante,`
 ` aaah, pero si no hay libre albedrío, eso sería un poco, ya sabes.`
@@ -332,83 +332,83 @@
 `Mientras cruzaba los brazos, gimiendo y quejándose, alguien llamó a la puerta.`
 `{n}George regresó de golpe a la realidad.`
 `"Hey, George‐kun.`
-` ¿Estás bien?`
-` ¿Tienes dolor de estómago o algo así?"`
-`"¡Ah, ajajajaja, tío Rudolf...!`
+` ¿Todo bien?`
+` ¿Le ocurre algo a tu estómago?"`
+`"¡Ah, ajajajaja, tío Rudolf!`
 ` ¡No pasa nada, estoy bien!`
-` ¡No tienes que preocuparte, ajajajajajaja...!"`
-`"¿Estás seguro...?`
+` ¡No tienes que preocuparte, ajajajajajaja!"`
+`"¿Estás seguro?`
 ` Bien, entonces.`
 ` No pujes demasiado.`
 ` Que tu trasero va a estallar."`
 `Rudolf se lavó las manos, riendo alegremente, y se fue.`
 `George sabía que la parte más embarazosa no había sido escuchada, y se palmeó el pecho aliviado...`
-`"Kyrie, ¿todavía no ha llegado Rosa?"`
+`"Kyrie, ¿aún no ha llegado Rosa?"`
 `"Todavía no.`
 ` Ella está bastante atrasada."`
 `"Menos mal que el tiempo retrasó nuestro vuelo.`
 ` Si el horario hubiese sido como el de costumbre, ya habría perdido el avión.`
 ` ¿Qué haría ella en ese caso?"`
-`"Rosa-san ya es una adulta.`
+`"Rosa‐san ya es una adulta.`
 ` Se las arreglaría de alguna manera.`
 ` No importa la edad que tengan, los hermanos mayores siempre tratan a sus hermanas menores como niños."`
 `"Papá siempre es un niño, no importa la edad que tenga."`
 `"¿Qué has dicho? Si soy un niño, eso te convierte a ti en un bebé.`
-` ¡Vamos, Battler-chan, ven con papá~!"`
+` ¡Vamos, Battler‐chan, ven con papá~!"`
 `"¡Para, eso hace cosquillas, wajajaja, paaara!"`
 `"Ustedes dos parecen más un par de niños traviesos que un padre y un hijo...`
 ` Miren, ya llegó."`
 `"¡¡¡Ohoooooooooh!!!`
-` ¡Pero si es Rosa-san!`
-` ¡¡María-chan, cuánto tiempo sin verte!!"`
-`"¡¡Mucho tiempo sin verte!!`
+` ¡Pero si es Rosa‐san!`
+` ¡¡Maria‐chan, cuánto tiempo!!"`
+`"¡Cuánto tiempo!`
 ` ¡Uu!"`
-`"¡María!`
-` ¿No debería ser: "Me alegra verte de nuevo"?`
+`"¡Maria!`
+` ¿No deberías decir: "Qué bueno es verte de nuevo"?`
 ` Saluda a tu tío como es debido."`
 `"Uu.`
-` Me... alegra verte de nuevo..."`
-`"¡Ahí lo tienes!`
+` Qué... bueno es verte de nuevo..."`
+`"¡Eso es!`
 ` ¡Bien dicho!`
-` ¡¿Qué tal un caramelo como recompensa?!`
-` Oh, ¿huh?`
+` ¡Te daré un dulce como premio!`
+` Oh, ¿eh?`
 ` ¿Dónde los puse...?"`
-`"Rosa-san, me alegra volver a verte.`
-` Me alegra verte también, María-chan."`
-`"Ha pasado mucho tiempo, Kyrie nee-san, Hideyoshi nii-san.`
-` Y... oh, ¡¿Battler‐kun?!`
-` ¡Mira cuánto has crecido...!"`
+`"Rosa‐san, me alegra volver a verte.`
+` También a ti, Maria‐chan."`
+`"Ha pasado demasiado tiempo, Kyrie nee‐san, Hideyoshi nii‐san.`
+` Y... Vaya, ¡¿Battler‐kun?!`
+` ¡Mira cuánto has crecido!"`
 `"Ah, vamos, jajaja...`
-` ¡Es vergonzoso escuchar eso de cada persona con la que me encuentro...!"`
-`"Hey, Rosa.`
+` ¡Es vergonzoso escuchar eso de cada persona con la que me encuentro!"`
+`"Oye, Rosa.`
 ` Llegas tarde.`
-` Si el avión hubiese partido puntualmente, apenas y lo hubieras abordado..."`
+` Si el avión estuviera a tiempo, apenas habrías llegado."`
 `"Lo siento.`
 ` Hubo algunos contratiempos para abordar el tren.`
-` Entonces, ¿estamos esperando a causa del mal clima otra vez?"`
+` Así que, ¿estamos esperando a causa del mal clima otra vez?"`
 `"Oh, no me quejo.`
-` Prefiero un viaje de treinta minutos en avión que pasar seis horas en un barco.`
-` Aunque nos hagan esperar aquí una hora, sigue siendo mucho más rápido de todos modos."`
-`"¿Es ella María...?`
+` Prefiero un viaje de treinta minutos en avión que ser sacudida seis horas en un barco.`
+` Incluso si nos hicieran esperar otra hora, sigue siendo más rápido a fin de cuentas."`
+`"¿Es ella Maria?`
 ` Sí que ha crecido...`
-` Ella está en esa edad de desarrollo..."`
+` Ella está en esa edad de crecimiento..."`
 `"¿No fue hace seis años la última vez que la viste?`
 ` Por supuesto que cambiaría.`
 ` Las mujeres son seres que pueden nacer de nuevo en un solo día, y todo lo que se necesita es un cambio en el corazón."`
 `"¿Uu?"`
-`María notó a un hombre alto que no recordaba mezclado entre los familiares, y se escondió detrás de Rosa mientras miraba fijamente a Battler.`
+`Maria notó a un hombre alto que no recordaba mezclado entre los familiares, y se escondió detrás de Rosa mientras miraba fijamente a Battler.`
 `"Vamos, Battler, saluda.`
 ` La última vez que se vieron ella solo tenía tres años, así que esta bien podría ser la primera vez que se conocen."`
 `"¡Sí, supongo que no se acordaría de algo que pasó cuando ella tenía tres años!`
-` Hola María, tanto tiempo sin verte.`
+` Hola Maria, tanto tiempo sin verte.`
 ` ¡Sí que has crecido!"`
-`"María.`
+`"Maria.`
 ` Él es Battler onii‐chan.`
 ` El hijo del tío Rudolf.`
 ` ¿Comprendes?"`
 `"El hijo del tío es...`
 ` El tío es el hijo de...`
-` ¿............?`
+` ¿¿...??`
 ` ¡¡Uuuu!!"`
 `Ella estaba obviamente a la defensiva.`
 `{n}Debió parecerle espeluznante que un tipo tan alto como Battler empezara de repente a hablarle con confianza.`
@@ -416,72 +416,72 @@
 `Entonces, se percató del caramelo que llevaba en la mano.`
 `Era el caramelo de calabaza de hallowen que Rosa había comprado para ella.`
 `"Oh, claro, es octubre, así que eso debe ser para Halloween.`
-` ¡Ihihihi, dulce o truco~!"`
+` ¡Ijijiji, dulce o truco~!"`
 `Si intentas quitarle un dulce a un niño pequeño, lo normal es que haga un berrinche.`
-`Los adultos pensaron que ese método no era acertado, pero sorprendentemente, María parecía complacida, mostrando una amplia sonrisa.`
+`Los adultos pensaron que ese método no era acertado, pero sorprendentemente, Maria parecía complacida, mostrando una amplia sonrisa.`
 `"¡¡Halloween, Halloween!!`
-` See, Mama, Battler knows about Halloween too, see, see!!"`
-`"¡Oye, llámalo Battler onii-chan!`
+` ¿Ves, mamá? ¡¡Battler también sabe de Halloween, ¿ves, ves?!!"`
+`"¡Oye, llámalo Battler onii‐chan!`
 ` Lo siento, Battler‐kun."`
 `"No, no, no hay problema.`
 ` Llámame Battler.`
-` Y yo podré llamaré María.`
-` ¡Vamos, María, es Halloween!`
+` Y yo podré llamaré Maria.`
+` ¡Vamos, Maria, es Halloween!`
 ` ¡¡Dulce o truco~!!"`
 `"¡¡Dulce o truco~!!`
 ` ¡¡Kyajajaja, *risita*risita*!!"`
-`Del interior de su bolso, María sacó un caramelo de calabaza de Halloween idéntico al que tenía en la mano, y se lo ofreció a Battler.`
+`Del interior de su bolso, Maria sacó un caramelo de calabaza de Halloween idéntico al que tenía en la mano, y se lo ofreció a Battler.`
 `Parecía que el hecho de que Battler lo aceptara era suficiente para confirmar su amistad.`
 `Los adultos sintieron admiración al ver cómo los niños tienen sus propias formas de comunicarse.`
-`Para María, quien se había quejado de que quería hacer una fiesta de Halloween,`
+`Para Maria, quien se había quejado de que quería hacer una fiesta de Halloween,`
 ` debió haber sentido que Battler era un amigo, ya que sabía lo del dulce o truco.`
 `Su postura tan defensiva de antes había desaparecido por completo.`
 `{n}Ahora, ella estaba toda alegre, es como si fueran amigos desde hace décadas.`
-`"Sí, Halloween es un evento menor en Japón, ¿no es así?...`
+`"Es cierto, Halloween es un evento menor en Japón, ¿no es así?`
 ` A menudo se ve a gente desfilar disfrazada en las noticias de otros países, pero nunca lo he visto en Japón."`
 `"Yo también quería llevar un disfraz.`
 ` Quería ir a pedir dulce o truco con todos los primos disfrazados..."`
 `"Sí, seguro que sí. ¡Hagámoslo juntos algún día!`
 ` ¿De qué quieres disfrazarte?"`
 `"¡¡De bruja!!`
-` ¡Como {f:5:Beatrice}!"`
-`"Oh, Señorita, ¿qué está haciendo en un lugar como este?`
-` La Señora la estaba buscando."`
+` ¡{f:5:Beatrice}!"`
+`"Oh, señorita, ¿qué está haciendo en un lugar como este?`
+` La señora la estaba buscando."`
 `"Estoy aquí porque no {i:quiero} ser encontrada.`
-` Apuesto a que solo quiere regañarme, con toda esa mierda de "¿estás bien vestida?" y "cuidado con lo que dices."`
-`"Hoh‐hoh‐ho...`
+` Apuesto a que solo quiere regañarme, con toda esa mierda de "¿estás bien vestida?" y "cuidado con lo que dices"."`
+`"Jo‐jo‐jo...`
 ` Sin lugar a dudas."`
-`"Sabes.`
+`"Sabes...`
 ` Cuando llega el día de la conferencia familiar, por alguna razón, empiezo a tener sentimientos extraños sobre esta bruja."`
-`"Hoh...`
-` ¿Por qué dice eso...?"`
+`"Jo...`
+` ¿Por qué dice eso?"`
 `"La conferencia familiar es el día en que se reúnen todos los parientes del abuelo.`
 ` Escuché que Battler vendrá por primera vez en seis años, este año.`
 ` Por cosas como estas.`
 ` Siempre me he preguntado si algún "pariente" que no ha aparecido en varias décadas podría reaparecer de repente."`
-`"Hohoh...`
-` ¿Podría existir un pariente así...?"`
+`"Jojo...`
+` ¿Podría existir un pariente así?"`
 `"Estoy hablando de esa {f:5:Beatrice}‐sama.`
 ` Nadie conoce sus orígenes.`
 ` ¿Podría ser la amante del abuelo desde hace mucho tiempo?`
 ` Tal vez uno de sus descendientes aparezca de repente y nos diga que devolvamos el oro que nos concedió o algo así, ¿sabes?"`
-`"Hoh‐hoh‐hoh‐ho...`
-` Krauss-sama y los otros probablemente tendrán una discusión sobre el problema de la herencia del Amo este año también.`
+`"Jo‐jo‐jo‐jo...`
+` Krauss‐sama y los otros probablemente tendrán una discusión sobre el problema de la herencia del amo este año también.`
 ` Con tanta expectación por hablar del oro de la bruja, supongo que no sería nada extraño que la propia bruja que concedió ese oro hiciera finalmente su aparición."`
-`"Kumasawa-san, sabes,`
-` Es cierto que siempre estás dejando de trabajar en un momento y trabajando al siguiente, pero has estado aquí tanto tiempo como Genji-san, ¿verdad?`
+`"Kumasawa‐san, sabes,`
+` es cierto que siempre estás dejando de trabajar en un momento y trabajando al siguiente, pero has estado aquí tanto tiempo como Genji‐san, ¿verdad?`
 ` Tú sabes más acerca de {f:5:Beatrice}, ¿no es así?"`
 `"Bueno, puede ser.`
-` Hoh‐hoh‐ho...`
+` Jo‐jo‐jo...`
 ` Aunque intente recordar, esta anciana no puede ni siquiera acordarse de lo que ha desayunado esta mañana..."`
-`"Kumasawa-san, siempre te escapas con esas excusas, pero tú sabes algo, ¿verdad?`
+`"Kumasawa‐san, siempre te escapas con esas excusas, pero tú sabes algo, ¿verdad?`
 ` A veces siento una atmósfera un poco retorcida en ti, como si supieras algo y te estuvieras riendo a nuestras espaldas..."`
-`"Hoh‐hoh‐ho... Qué cruel.`
+`"Jo‐jo‐jo... Qué cruel.`
 ` Yo no tengo ningún secreto.`
 ` Lo único que puedo decir es que...`
-` {f:5:Beatrice}‐sama es la Bruja Dorada, y que ella es el otro Amo que controla la noche de esta isla."`
+` {f:5:Beatrice}‐sama es la Bruja Dorada, y que ella es el otro amo que controla la noche de esta isla."`
 `"Solo estás repitiendo los delirios del abuelo.`
-` Aunque te paguen, debe ser un fastidio seguir las fantasías del abuelo."`
+` Aunque te paguen, debe ser un fastidio seguir sus fantasías."`
 `"Sin embargo, puedo decir esto."`
 `"¿Qué cosa?"`
 `"En la antigüedad, Rokkenjima era temida, y era llamada "{ruby:Isla de los frijoles Azuki:Azukijima}".`
@@ -489,14 +489,14 @@
 `"Ya he oído esto antes.`
 ` Es aquella historia sobre cómo, a causa de todas las rocas hundidas y los naufragios de por aquí, los pescadores tenían miedo y se alejaban todo lo que podían, ¿verdad?"`
 `"Los espíritus malignos se habían apoderado de Akujikijima, devorando almas humanas desde tiempos inmemoriales...`
-` Hubo demasiadas personas que se involucraron con esta isla y fueron despojadas de sus vidas."`
-`"Y todo se apaciguó cuando un asceta montañés viajero o alguien construyó ese santuario y puso a descansar a esas almas, ¿verdad...?`
+` Hubieron demasiadas personas que se involucraron con esta isla y fueron despojadas de sus vidas."`
+`"Y todo se apaciguó cuando un asceta montañés viajero o alguien construyó ese santuario y puso a descansar a esas almas, ¿verdad?`
 ` Qué historia más sombría."`
 `"Dicen que ese santuario fue destruido el verano pasado por un espeluznante rayo violeta que atravesó la oscuridad de la noche..."`
-`"Kumasawa-san, te gustan mucho esas historias, ¿no es cierto?`
-` Seguramente, sería bastante tenebroso que un rayo destruyera el santuario que mantiene a los muertos en paz.`
+`"Kumasawa‐san, te gustan mucho esas historias, ¿no es cierto?`
+` Pues sí, sería bastante tenebroso que un rayo destruyera el santuario que mantiene a los muertos en paz.`
 ` Pero, bueno, ya estaba todo desgastado desde el principio.`
-` Apuestaría a que se lo llevó alguna ola grande.`
+` Apostaría a que se lo llevó alguna ola grande.`
 ` Jajajajaja."`
 `"Los espíritus malignos de Akujikijima despertaron de su sueño y convocaron a {f:5:Beatrice}‐sama.`
 `  Así que si {f:5:Beatrice}‐sama viniera por casualidad a la conferencia familiar, entonces..."`
@@ -505,10 +505,10 @@
 `{n}Jessica, que quería que continuara, encontró ese silencio muy misterioso.`
 `Una vez que Kumasawa se dio cuenta de que había asustado a Jessica lo suficiente, sonrió ampliamente.`
 `"Bueno, me pregunto qué pasaría.`
-` Hoh‐hoh‐hoh‐hoh‐ho..."`
+` Jo‐jo‐jo‐jo‐jo..."`
 `"Vaya, eso suena estupendo."`
 `"Lo es, ¿no es así?`
-` ¿No es útil para tu trabajo enriquecer tu corazón y pasar un rato elegante de vez en cuando...?"`
+` ¿No es útil para tu trabajo enriquecer tu corazón y pasar un rato elegante de vez en cuando?"`
 `"Supongo que sí.`
 ` El corazón y la cartera deben ser enriquecidos.`
 ` Bien, mantendré ese día libre.`
@@ -534,12 +534,12 @@
 ` Enseguida."`
 `El ejecutivo ordenó a la secretaría que lo conectara a la línea externa.`
 `{n}Inmediatamente, el teléfono frente a Rudolf comenzó a sonar.`
-`"Aló.`
-` ¡<Hello, hello>!`
+`"Hola.`
+` ¡{i:Hello, hello}!`
 ` Disculpa la espera, Ushiromiya al habla.`
 ` Buenos días, buenos días.`
 ` ¿Cómo va todo por allá?"`
-`"<Hello, President Ushiromiya>.`
+`"{i:Hello, President Ushiromiya}.`
 ` Dejemos de lado los saludos y vayamos al grano.`
 ` Tengo buenas y malas noticias; ¿por cuál empezamos?"`
 `"Empieza con las malas noticias.`
@@ -564,7 +564,7 @@
 ` Donde sí tenemos margen para negociar es en la cantidad de dinero del acuerdo, la presentación de una disculpa pública en un periódico importante y la cantidad de tiempo necesaria para llevar a cabo todo este asunto."`
 `"¿Por qué no simplemente nos mandan a la quiebra de una vez?."`
 `"Cambiaron a su segundo presidente hace solo un par de años, y el nuevo presidente aún no se ha asentado en el cargo.`
-` Si resistimos hasta el final, temen que las personas que quieren ir contra del actual presidente no duden en hacer algún movimiento a favor del adversario."`
+` Si resistimos hasta el final, temen que las personas que quieren ir contra el actual presidente no duden en hacer algún movimiento a favor del adversario."`
 `"Además, parece que los peces gordos de allí también quieren resolver este asunto lo más pronto posible.`
 ` Por lo tanto, en aras de un acuerdo rápido, todavía podemos tener suficiente margen de maniobra para tirar por alguna mitigación de las condiciones."`
 `"En cualquier caso, se necesitará una cantidad absurda de dinero, supongo."`
@@ -574,7 +574,7 @@
 ` Si hay algún progreso más, por favor, póngase en contacto conmigo.`
 ` Ustedes cobran mucho, así que no puedo ni siquiera charlar con ustedes.`
 ` Jajajaja.`
-` <Thank you, thank you, goodbye>."`
+` {i:Thank you, thank you, goodbye}."`
 `Rudolf colgó el teléfono.`
 `Parecía que los ejecutivos sentados en la recepción pudieron adivinar el contenido de la llamada.`
 `"Ya entendieron, ¿verdad?`
@@ -583,7 +583,7 @@
 ` Todo lo que tenemos que hacer ahora es centrarnos en el cuánto."`
 `"Pero presidente.`
 ` La suma que el Sr. Watanabe estimó para el acuerdo es demasiado.`
-` ¡No tenemos tanto margen...!"`
+` ¡No tenemos tanto margen!"`
 `"Si hubiéramos imaginado que esto iba a ocurrir, nunca habríamos empezado a diversificar..."`
 `"Los cálculos indicaban que podíamos salir de la crisis de capital si éramos capaces de aguantar tres años.`
 ` Ser apuñalado de esta manera en esta coyuntura es... ¡increíblemente desafortunado!"`
@@ -603,7 +603,7 @@
 `"En ese caso, necesitamos recaudar dinero.`
 ` Necesitamos un patrocinador que pueda aportar varios millones de dólares lo antes posible."`
 `"¡Presidente!`
-` ¿No se podría llegar a un acuerdo con alguno de sus socios...?!"`
+` ¡¿No se podría llegar a un acuerdo con alguno de sus socios?!"`
 `"¡Presidente!`
 ` ¡Presidente...!"`
 `"Aaaah, cálmense, bastardos.`
@@ -625,7 +625,7 @@
 `Esa sacudida despertó a Rudolf de su sueño.`
 `{n}Él se había levantado temprano esa mañana, y había terminado por dormirse en su asiento.`
 `"¿Estás bien?`
-` Todavía estás muy somnoliento, ¿no es así?`
+` Todavía estás muy somnoliento, ¿no?`
 ` Has estado muy ocupado con el trabajo últimamente."`
 `"Menos mal que estoy ocupado con el trabajo.`
 ` Si de repente me quedara sin poder hacer nada, estaríamos todos en la calle el día siguiente."`
@@ -647,29 +647,29 @@
 `"No tengo intención de unirme a esos buitres en su discusión.`
 ` Pueden discutir de cómo van a chupar mis huesos tanto como quieran.`
 ` No valen ni un segundo de mi tiempo."`
-`".....................`
+`"...`
 ` Vaya, vaya.`
 ` Qué problemático..."`
 `Nanjo sacudió ligeramente la cabeza.`
 `Para él, los hijos y los nietos debían ser adorados.`
 `{n}Y consideraba que verlos crecer era el único disfrute para los ancianos.`
 `Las palabras de Kinzo le parecieron algo muy triste.`
-`"Si llega el momento en que debo dejar esta habitación, entonces daré la cara.`
+`"Si llega el momento en que deba dejar esta habitación, entonces daré la cara.`
 ` Al igual que aquella persona que no se muestra."`
 `Kinzo levantó el rostro, y en la dirección de su mirada estaba el retrato de la bruja, respetuosamente colocado en la pared...`
-`".................."`
+`"..."`
 `En la mente de Kinzo no existía la idea de que hoy era el día de la conferencia familiar, el día en que se reuniría toda su querida familia.`
 `Unicamente estaba el rostro de la bruja del cuadro al óleo, que nunca sonreía fuera de su retrato...`
 `Todo el mundo sabía que cuando Kinzo hablaba de {f:5:Beatrice}, interrumpir innecesariamente instigaría su ira...`
 `"Hoy, voy a... realizar un cierto ritual."`
-`"Hoh.`
+`"Hmm...`
 ` ¿Y de qué sería?"`
 `"Sería más exacto llamarlo una apuesta.`
 ` Después de todo, no hay milagros en la magia sin riesgo."`
 `Nanjo ya había escuchado esto innumerables veces.`
 `{n}Podrías llamarlo la frase favorita de Kinzo.`
 `Parece que Kinzo creía que la magia y los milagros ocurrirían si apostabas tu propio destino junto con un cierto riesgo y conseguías salir victorioso...`
-`"Kinzo-san, puede que una vez te llamaran el Golden Gambler,`
+`"Kinzo‐san, puede que una vez te llamaran el Apostador Dorado,`
 ` pero no puedo imaginar qué tipo de apuesta realizarás con ese envejecido cuerpo, cuando podrías ir al otro mundo en cualquier momento...`
 ` Supongo que valdrá la pena ver esto..."`
 `"Hmph...`
@@ -680,16 +680,16 @@
 ` podrás entender finalmente que toda mi investigación, que probablemente solo aparece como una veleidad a tus ojos, dio sus frutos en este día.`
 ` Si tú ganas,`
 ` todo terminará como, tal y como has observado, nada más que el capricho de un anciano que podría irse al otro mundo en cualquier momento."`
-`"Hoh...`
-` Me pregunto qué es esta apuesta que vas a empezar...`
-` Como tu amigo, solo ruego que salgas de esta apuesta... o ritual...`
+`"Hmm...`
+` ¿Qué clase de apuesta podrías estar planeando tomar?`
+` Como tu amigo, solo rezo que en esta apuesta... o ritual, como tu dices...`
 ` Solo rezo, desde el fondo de mi corazón, para que puedas salir victorioso de ese ritual."`
 `"Mmhm... te lo agradezco."`
-`"Hablando de eso, Kinzo-san.`
+`"Hablando de eso, Kinzo‐san.`
 ` He oído que un invitado muy esperado estará presente en la conferencia familiar de este año"`
 `"¿Qué...?"`
 `Kinzo reaccionó de forma inusual a las palabras de Nanjo y se dio la vuelta.`
-`"Es Battler-kun el hijo de Rudolf-san.`
+`"Es Battler‐kun, el hijo de Rudolf‐san.`
 ` He oído que vendrá por primera vez en seis años.`
 ` Estoy seguro de que se ha convertido en un joven extraordinario."`
 `"Oh... Battler.`
@@ -698,10 +698,10 @@
 `"Supongo que estos seis años pasaron en un abrir y cerrar de ojos para ti, hundido en tu investigación en esta habitación..."`
 `"Hmph.`
 ` Quizás un invitado verdaderamente esperado...`
-` nos hará una visita...`
+` nos hará una visita.`
 ` Todo dependerá de los resultados de la ruleta.`
 ` La ruleta ya empiezó a girar.`
-` ¿Rojo o negro?"`
+` ¿Será rojo, o negro?"`
 `"Esta noche, nos divertiremos mientras vemos qué clase de milagro nos mostrará la ruleta.`
 ` Los beneficios son grandes.`
 ` Y no tengo ganas de perder...`
@@ -714,7 +714,7 @@
 ` La familia ha llegado."`
 `"¿Y eso qué tiene que ver conmigo?`
 ` Puedes servirles té o algo."`
-`"Ciertamente.`
+`"Como usted diga.`
 ` Me encargaré de ello."`
 `Kinzo colgó el teléfono bruscamente.`
 `Al verlo, Nanjo volvió a suspirar y desplazó su atención fuera de la ventana.`
@@ -722,39 +722,39 @@
 `¿Había algún invitado que pudiera hacer que Kinzo accediera a salir de está habitación?`
 `Él tenía una persona en mente, pero ese invitado era uno que no podía aparecer...`
 `Después de echar un vistazo a la bruja del retrato y a su cándida expresión, que no pudo calificar como feliz o triste, Nanjo miró al cielo gris...`
-`Ahora bien, ¿están todas las piezas alineadas...?`
+`Ahora bien, ¿están todas las piezas alineadas?`
 `{n}Empecemos un nuevo juego, con las piezas alineadas una vez más.`
-`"¿Hay algún problema...?"`
+`"¿Hay algún problema?"`
 `"Ninguno."`
 `La bruja lo miró desafiante mientras fumaba elegantemente su pipa.`
 `¿Y Battler?`
 `{n}Él se encogió de hombros como si no le importara.`
 `No quiso mirarla a los ojos.`
-`{n}Pero eso no significa que no vaya a jugar.`
-`Significa su clara determinación de no dejarse engañar nunca por los trucos de ese ser al que se enfrentaba.`
+`{n}Pero eso no significaba que no iba a jugar.`
+`Significaba su clara determinación de no dejarse engañar nunca por los trucos de ese ser al que se enfrentaba.`
 `{n}Era una expresión de su fuerte determinación de luchar.`
-`"¿No me digas que no tienes un plan...?"`
+`"¿No me digas que no tienes un plan?"`
 `"No sé cómo vas a jugar, así que no, no tengo ningún plan.`
 ` Siéntete libre de hacer el primer movimiento."`
 `"Hmph... Obviamente, tengo la intención de hacerlo.`
 ` ¿De qué manera debería destrozar tu defensa?`
-` ¿En cuántos movimientos te daré jaque mate?`
+` ¿En cuántos movimientos haré jaque mate?`
 ` Así es como voy a mostrar mis habilidades."`
-`"¡Cualquiera que sea el movimiento con el que me ataques, nunca creeré en ti!`
+`"¡Sea cual que sea el movimiento con el que me ataques, nunca creeré en ti!`
 ` Mientras me mantenga firme, no perderé.`
 ` Y esto significa que...`
-` ¡Por la manera en la que está hecho este juego, no podrás ganar...!"`
+` ¡Por la manera en la que está hecho este juego, no podrás ganar!"`
 `"Tal vez tengas razón.`
 ` Sin embargo...`
 ` Yo decidiré cuántas veces repetiremos este juego.`
-` ¡Se repetirá una y otra vez, hasta que yo gane y tú admitas la derrota...!"`
+` ¡Se repetirá una y otra vez, hasta que yo gane y tú admitas la derrota!"`
 `"En otras palabras, esto es una tortura.`
-` ¡Una tortura eterna que continuará hasta que te rindas...!`
+` ¡Una tortura eterna que continuará hasta que te rindas!`
 ` ¡Continuando eternamente, hasta que me reconozcas a mí y a la existencia de las brujas!"`
 `"En ese caso, jugaré contigo infinitamente, las veces que sea necesario, hasta que se te acabe la paciencia.`
-` Nunca he perdido en una "batalla de voluntades"."`
-`"¿Acaso una bruja te sugirió eso...?`
-` ¡*carcajada*carcajada*, está bien...!"`
+` Nunca he perdido en una "batalla de voluntad"."`
+`"¿Acaso una bruja te sugirió eso?`
+` ¡*carcajada*carcajada*, está bien!"`
 `"Estoy cansado de escuchar tus incoherencias.`
 ` ¡Vamos, que empiece esto!"`
 `"¡De acuerdo, empecemos!`
@@ -765,15 +765,15 @@
 ` Solo tengo una cosa que decirte antes de empezar."`
 `"¿Cuál es?"`
 `"Eres libre de decir lo que quieras.`
-` ¡Pero cuando se trata de decidir si lo creo o no,`
-` eso siempre`
+` Pero cuando se trata de decidir si lo creo o no,`
+` ¡eso siempre`
 ` dependerá`
-` de mí...!"`
+` de mí!"`
 `"¡No importa lo fantástica que sea tu magia!`
 ` Mi alma no se rendirá ante ti.`
 ` ¿Crees que esto será una tortura para mí?`
 ` ¡¡Estás equivocada!!"`
-`"Entonces, ¿qué es lo que sería...?"`
+`"Entonces, ¿qué es lo que sería?"`
 `"¡¡Esto es una tortura para ti!!"`
 `"¡Algún día te rendirás ante mí y te darás por vencida!`
 ` ¡Hasta entonces, serás torturada una y otra vez!"`
