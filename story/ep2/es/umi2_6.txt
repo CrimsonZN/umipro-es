@@ -20,13 +20,13 @@
 `Así que Kanon decidió llamar a la bruja por su nombre, con el objetivo de que se diera la vuelta.`
 `Él quería saber.`
 ` Quería saber si la bruja que los había tentado a él y a Shannon en el pasado... realmente había vuelto a aparecer.`
-`Cuando lo hizo, la bruja, cuyo nombre había sido pronunciado, se mantuvo de espaldas y rió.`
+`Cuando lo hizo, la bruja, cuyo nombre había sido pronunciado, se mantuvo de espaldas y rio.`
 ` Se rio con una voz tenue.`
 `Kanon se sobresaltó...`
 `{n}Era casi como si ella le hubiera leído la mente, y supiera que la había llamado con el afán de hacer que se diera la vuelta...`
 `"Huele bien.`
 ` Parece que Krauss ha contratado a un buen cocinero."`
-`"........................`
+`"...`
 ` Sí.`
 ` Es un cocinero llamado Gohda, quien fue contratado hace unos años."`
 `"No hay nada mejor que tener una gran habilidad para cocinar.`
@@ -42,7 +42,7 @@
 `"{f:5:Bea}... {f:5:trice}...`
 ` sama..."`
 `"Ha pasado mucho tiempo.`
-` Mueble conocido como Kanon.`
+` Mueble llamado Kanon.`
 ` ¡*carcajada*carcajada*carcajada*carcajada*carcajada*!"`
 `"Ha pasado...`
 ` mucho tiempo..."`
@@ -50,14 +50,14 @@
 `{n}Pero nubes oscuras habían comenzado a cernirse sobre su corazón a causa de la visita de esta bruja sospechosa, especialmente porque hoy era el día de la conferencia familiar...`
 `"Me parece que te mueres por saber el propósito de mi llegada.`
 ` ¿No es así?"`
-`"................................."`
+`"..."`
 `Kanon no se forzó a contestar.`
 ` Esta bruja probablemente lee las mentes.`
 `{n}Así que no tendría sentido tomarse la molestia de decirlo en voz alta.`
 `Por supuesto, era incluso capaz de leer ese espíritu rebelde.`
 `Entonces, la bruja se rio de la resistencia infantil de Kanon.`
 `"He venido a cumplir mi última promesa con Kinzo."`
-`"¿Su última promesa con... el Amo?"`
+`"¿Su última promesa con... el amo?"`
 `"Le presté a Kinzo una montaña de oro.`
 ` Cuando Kinzo se llevó el oro, se comprometió a devolvérmelo con intereses.`
 ` He venido aquí esta noche para cobrar esos intereses."`
@@ -70,24 +70,24 @@
 ` Estás completamente en lo cierto."`   
 `"En todo caso, las brujas son como unas tijeras, cuyo potencial depende totalmente de la manera en que se utilicen.`
 ` A veces, hay personas como el rey Salomón que logran grandes hazañas."`
-`"Sin embargo, en la mayoría de las veces uno no se enfrenta a un destino tan favorable como los que se describen en los cuentos de hadas`
+`"Sin embargo, en la mayoría de las veces uno no se enfrenta a un destino tan favorable como los que se describen en los cuentos de hadas.`
 ` ¡*carcajada*carcajada*!`
 ` Pero Kinzo es astuto.`
 ` Ha integrado incluso mi cobro de intereses en su propio ritual."`
 `"¿Podría ser acaso un extraordinario mago que me supera incluso a mí?`
 ` ¿O quizá solo un tonto presa de la locura?
 ` Interesante.`
-` ¡Verdaderamente interesante...!"`
+` ¡Verdaderamente interesante!"`
 `Kanon no podía imaginar qué era lo que la bruja murmuraba y de lo que se reía.`
 `Todo lo que sabía era que...`
-` cualquier cosa que la bruja encontrara gracioso...`
-` tenía el efecto completamente contrario para todos los demás.`
+` cualquier cosa a la que esta bruja le encontrara gracia...`
+` debía tener el significado opuesto al resto.`
 `Y entonces, las horripilantes palabras que la bruja le había dicho en el pasado volvieron a su mente.`
 `¿Creías que les prestaría ese poder sin ningún tipo de compensación?`
 `{n}Cuando ayudo a alguien en el amor,`
 ` mi compensación siempre será asiento en primera fila para presenciar el cruel destino que les espera a ambos.`
-`¡Incluso después de mil años, no existe un mejor espectáculo...!`
-`".................................`
+`¡Incluso después de mil años, no existe un mejor espectáculo!`
+`"...`
 ` Podría ser que... tú..."`
 `"¡*carcajada*carcajada*carcajada*carcajada*!`
 ` ¡¡Gejejejajajajajajajajajaja...!!"`
@@ -110,7 +110,7 @@
 `"Creo que llevas mucho tiempo esperando por este momento.`
 ` Para los muebles, cuya existencia carece de valor, el mero hecho de existir día a día no debe ser más que una agonía."`
 `"Para aquellos que tienen alma, el mundo de los vivos es algo a lo que vale la pena aferrarse, pero para los que no la tienen no es más que sufrimiento.`
-` ¡*carcajada*carcajada*...!"`
+` ¡*carcajada*carcajada*!"`
 `En el rostro de Kanon surgieron complicadas expresiones.`
 `Era el día de la liberación que tanto había esperado.`
 `{n}Sin embargo, la llegada de este día había sido despiadadamente repentina.`
@@ -131,11 +131,11 @@
 `"¡Exactamente!`
 ` ¡La mayoría de las brujas que viven mil años se aburren de la vida!`
 ` Para escapar del aburrimiento, adorno los destinos de las personas con fruta y brandy, para luego cocinarlos como pasteles.`
-` ¡Me parece tan entretenido ver a humanos danzar a través de destinos opresivos dentro de un horno...!"`
+` ¡Me parece tan entretenido ver a humanos danzar a través de destinos opresivos dentro de un horno!"`
 `"¡*carcajada*carcajada*!`
 ` Me he ganado un nombre en este campo, ¿sabes?`
 ` Tanto es así que de vez en cuando vienen invitados inesperados desde lejos para presenciar mis habilidades culinarias.`
-` Heheheheh, como si un simple mueble fuera capaz de entender esto."`
+` Jejejeje, como si un simple mueble fuera capaz de entender esto."`
 `Kanon no era capaz de entender lo que decía la bruja.`
 `Sin embargo, se dio cuenta de que que aquel ser terrorífico trataba el destino de los humanos como un espectáculo,`
 ` y disfrutaba causarles algún tipo de mal.`
@@ -143,7 +143,7 @@
 ` Los lamentables "muebles" no hacían más que servir hasta el día en que serían liberados del mundo.`
 `La bruja, quien había venido a liberarlos de todo, era para los muebles un ser desbordante de misericordia...`
 `A pesar de que había llegado el día que Kanon esperaba con tanta expectación, él se sentía bastante desconcertado por su incapacidad para aceptarlo de buena voluntad.`
-`¿Por qué habrá sido...?`
+`¿Por qué habrá sido?`
 `{n}El rostro de Shannon, la persona a la que amaba como a una hermana, se le vino a la mente.`
 `{n}Y por alguna razón, el rostro de Jessica también.`
 `"kh..."`
@@ -164,27 +164,27 @@
 `{n}Eso probablemente se convertiría en una gran fuente de dolor y sufrimiento para Shannon.`
 `Y esos remordimientos... habían sido sembrados por nada menos que esta bruja.`
 `¿Por qué?`
-` ¡Solo porque eso sería "más interesante"...!`
+` ¡Solo porque eso sería "más interesante"!`
 `"Shannon... había estado esperando impacientemente este día, pero ahora tendrá emociones que no debió conocer,`
 ` y probablemente se verá obligada a pasar por un muy mal momento.`
-` Te doy las gracias por otorgarnos el día de la liberación a nosotros los muebles."`
-`" Y... ¡Te odio por hacer que este día sea difícil de aceptar para Shannon...!"`
+` Te doy las gracias por otorgarnos el día de la liberación a nosotros, los muebles."`
+`" Y... ¡Te odio por hacer que este día sea difícil de aceptar para Shannon!"`
 `"Quería hacerte sentir el dolor de tus remordimientos al igual que Shannon.`
 ` Sin embargo, seguiste viviendo obstinadamente como un mueble, y nunca te dejaste engañar."`
 `"Pero parece que quieres demasiado a Shannon, ¿verdad?`
 ` ¡*carcajada*carcajada*carcajada*carcajada*!`
 ` Los remordimientos de Shannon se convirtieron en tus remordimientos.`
-` ¿Se convertirá eso en odio hacia mí...?"`
-`"................................."`
+` ¿Se convertirá eso en odio hacia mí?"`
+`"..."`
 `"Si quieres matarme, inténtalo.`
 ` ¡*carcajada*carcajada*carcajada*carcajada*!`
 ` Como mueble de Kinzo, debes tener el poder para hacer al menos eso, ¿verdad?`
-` Sin embargo, si me matas, el día de descanso para ustedes los muebles no llegará por toda la eternidad."`
+` Sin embargo, si me matas, el día de descanso para muebles como ustedes no llegará por toda la eternidad."`
 `"¿Podrías soportar eso?`
 ` ¿Realmente puedes rechazar la liberación que yo te daré?`
 ` ¡¡*carcajada*carcajada*carcajada*!!`
 ` ¡¡Arrodíllate!!"`
-`"¡¿Qu-qué?!"`
+`"¡¿Qu‐qué?!"`
 `"Arrodíllate y besa mis zapatos.`
 ` De lo contrario, me iré de este lugar.`
 ` Me iré y no volveré a aparecer por toda la eternidad."`
@@ -194,15 +194,15 @@
 `"Si la puerta a la Tierra Dorada es abierta, tu vida como mueble que ha estado llena de penurias por fin terminará.`
 ` Si lo deseas, incluso te daré una vida como humano.`
 ` ¡Después de eso, estarás al mismo nivel que Jessica!`
-` ¡Seguramente deseas experimentar el amor...!"`
+` ¡Seguramente deseas experimentar el amor!"`
 `"Lo sé aunque intentes ocultarlo, ¿sabes?`
 ` Te pusiste celoso viendo a Shannon regodeándose en la ciénaga del dulce amor.`
 ` Y ahora estás muy necesitado de probar el amor...`
 ` ¡¡*carcajada*carcajada*!!"`
-`"Ya basta... ¡Ya Basta!`
+`"Ya basta... ¡Ya basta!`
 ` ¡¿Estás intentando engañarme de nuevo?!`
 ` ¡No seré reducido a un juguete para complacerte!"`
-`"Hoh.`
+`"Jo.`
 ` Entonces me conformaré con Shannon.`
 ` Tú no fuiste la única semilla que sembré.`
 ` Y algunas veces esas semillas no dan frutos."`
@@ -217,9 +217,9 @@
 `"Estos dos podrían ser cualquiera que estén unidos.`
 ` Un marido y su mujer, o incluso una pareja de amantes.`
 ` Me corresponde a mí decidir a capricho quién será seleccionado, siguiendo las reglas del ritual."`
-`"¿No crees que no hay nadie más adecuada para ser un sacrificio del segundo crepúsculo que Shannon tal y como está ahora...?`
+`"¿No crees que no hay nadie más adecuada para ser un sacrificio del segundo crepúsculo que Shannon tal y como está ahora?`
 ` ¡¡*carcajada*carcajada*carcajada*carcajada*carcajada*!!"`
-`"Q-qué despreciable..."`
+`"Q‐qué despreciable..."`
 `Kanon se dio cuenta en ese momento.`
 ` Él creyó que había renunciado a todo, viviendo hasta hoy como un mueble y cumpliendo con ese papel.`
 `Pero en realidad, eso no era cierto.`
@@ -230,7 +230,7 @@
 `La bruja planeaba jugar con Shannon, quien había probado el amor...`
 `No, a quien la tentó a probar el amor, mientras la mataba.`
 `No la invitaría a la Tierra Dorada como una misericordiosa liberación,`
-` ¡sino que la convertiría en sacrificio para ese perverso ritual, después de torturarla e infligirle dolor hasta los límites...!`
+` ¡sino que la convertiría en sacrificio para ese perverso ritual, después de torturarla e infligirle dolor hasta los límites!`
 `Y esta bruja probablemente haría que Shannon se encontrara con un destino tan horrible, por la única razón de que sería interesante para ella.`
 `Además, amenazaba con hacer eso para que Kanon, quien no se había sometido a la bruja ni una sola vez hasta ahora, se sometiera finalmente...`
 `Era así de simple.`
@@ -239,7 +239,7 @@
 ` No, un juguete.`
 ` ¡No eran más que juguetes para distraerla de su aburrimiento!`
 `"Maldita sea..."`
-`"¿Qué harás, Kanon...?`
+`"¿Qué harás, Kanon?`
 ` Si te arrodillas, puede que incluso me abstenga de elegir a Shannon como sacrificio...`
 ` ¡*carcajada*carcajada*carcajada*carcajada*carcajada*!`
 ` Siempre quise tener la oportunidad de romper un juguete como tú.`
@@ -262,11 +262,11 @@
 ` Ese té ya estaba servido, y el interior del salón se llenó de un aroma muy agradable...`
 `Dado que los niños estaban con los adultos,`
 ` los adultos se comportaban, al menos de forma superficial, como parientes hablando tranquilamente de los últimos acontecimientos y del crecimiento de sus hijos.`
-`Ya había empezado a llover, así que los niños no podiamos salir,`
+`Ya había empezado a llover, así que los niños no podíamos salir,`
 ` y no tuve más remedio que sentarme a mirar la tele.`
 `Como un verdadero niño que le gusta ver televisión,`
-` María estaba viendo los insulsos programas del día, uno después de otro sin aburrirse, mientras se reía sola.`
-`Al principio Battler había estado viendo la televisión junto con María,`
+` Maria estaba viendo los insulsos programas del día, uno después de otro sin aburrirse, mientras se reía sola.`
+`Al principio Battler había estado viendo la televisión junto con Maria,`
 ` pero, como esa mañana se había levantado temprano, poco a poco fue atacado por oleadas de somnolencia...`
 `"fuaaaaaah..."`
 `"Oh, vaya bostezo.`
@@ -274,7 +274,7 @@
 `"Sí, algo así.`
 ` Y ahora, luego de relajarme y liberar toda mi tensión mientras escuchaba el sonido de la lluvia, me empezó a dar sueño."`
 `"¿Tensión?`
-` Heheh, vas por ahí llamando la atención apropósito, ¿y ahora dices que estabas tenso?"`
+` Jeje, vas por ahí llamando la atención a propósito, ¿y ahora dices que estabas tenso?"`
 `"Así soy yo, supongo.`
 ` fuaaaaaaaaaaaaaaaaah..."`
 `Battler volvió a dar un gran bostezo y se tumbó lentamente en el sofá.`
@@ -282,17 +282,17 @@
 `George y los demás habían empezado a hablar con él, tomando sus bostezos como una señal de aburrimiento, pero cuando se dieron cuenta de que realmente tenía sueño, decidieron dejarlo tranquilo.`
 `"Vaya, vaya.`
 ` Dicen que si te acuestas justo después de comer, te conviertes en una caballa.`
-` ¡Hoh‐hoh‐ho...!"`
+` ¡Jo‐jo‐jo!"`
 `"Dejese de bromear`
-` Gohda-san dijo que esta noche habría filete de ternera.`
+` Gohda‐san dijo que esta noche habría filete de ternera.`
 ` Pero parece acabará siendo un filete de caballa."`
 `"Kumasawa‐san.`
 ` Este tipo parece bastante cansado.`
 ` ¿Crees que podrías traerle una manta?
-`"Hoh‐hoh‐ho.`
+`"Jo‐jo‐jo.`
 ` Muy bien."`
 `Kumasawa trajo una manta de la estantería.`
-`{n}...The spacious parlor wasn't cold, but the air had gotten a little chilly.`
+`{n}El extenso salón no estaba frío, pero el aire empezaba a ponerse algo fresco.`
 `Así que cuando se colocó la manta sobre Battler, este se envolvió inmediatamente en ella y se acurrucó como una tortuga que se repliega en su caparazón.`
 `"Si que tenías sueño.`
 ` ¿A qué hora quieres que te levante?`
@@ -306,12 +306,12 @@
 ` ¿Hora de la siesta?`
 ` ¿Hora de la siesta?`
 ` ¡Uu‐uu, yo también!"`
-`"O‐oye, María.`
+`"O‐oye, Maria.`
 ` Battler tiene sueño, así que debes dejarlo descansar.`
-` Kumasawa-san, ¿nos podría dar otra manta?"`
-`Era dudoso que María quisiera realmente tomar una siesta.`
+` Kumasawa‐san, ¿nos podría dar otra manta?"`
+`Era dudoso que Maria quisiera realmente tomar una siesta.`
 `{n}Probablemente vio a Battler envuelto en una manta y quiso hacer lo mismo.`
-`Cuando Kumasawa le entregó la manta, María se acurrucó en ella y acampó frente al televisor.`
+`Cuando Kumasawa le entregó la manta, Maria se acurrucó en ella y acampó frente al televisor.`
 `"Tch...`
 ` Aunque todos los primos estemos por fin reunidos después de seis años.`
 ` El tipo no tiene ni idea de que es el invitado principal de esta conferencia familiar, ¿no es así?"`
@@ -345,12 +345,12 @@
 ` No te lo tomes demasiado en serio."`
 `"No sé el porqué, pero...`
 ` Ese tipo de personalidad, que dice que no quiere subir al escenario porque no puede ser el protagonista.`
-` Por alguna razón, me jode bastante..."`
+` Por alguna razón, me fastidia bastante..."`
 `Con ojos distantes, Jessica miró por la ventana al sombrío jardín de rosas, oscurecido por la lluvia...`
 `Cuando apoyó la frente contra el cristal, sintió como si la agradable sensación de frescor ahuyentara los recuerdos que no quería recordar...`
 `"Todavía no es tu turno, ¿dices?`
-` Entonces... ¿Cuándo piensas {i:subir} al escenario...?"`
-`Y en ese caso, ¿quién {i:es} el protagonista de este escenario...?`
+` Entonces... ¿Cuándo piensas {i:subir} al escenario?"`
+`Y en ese caso, ¿quién {i:es} el protagonista de este escenario?`
 `"¡Estás haciendo lo que te da la maldita gana!`
 ` ¿Qué mierda es todo esto?`
 ` ¡¡Es una completa locura!!"`
@@ -360,16 +360,16 @@
 `"La principal base sobre la que me niegas es simplemente que no fui colocada como una pieza en el tablero de juego.`
 ` En ese caso, puedo jugar la reina primero, ¿no?`
 ` ¿Acaso no es una de las jugadas clásicas del ajedrez abrir el camino a la reina en el primer movimiento?"`
-`"Qué jodidamente gracioso...`
+`"Sí, mira que divertido...`
 ` ¡¿Cómo demonios... crees que puedo aceptar algo así?!`
 ` ¡¿Una bruja entró caminando por el vestíbulo?!`
-` ¡¡Qué montón de mierda!!"`
+` ¡¡Vaya montón de bobadas!!"`
 `"¿Qué pasa?`
 ` En el último juego, te dejé hacer movimientos a tu antojo, ¿sabes?`
 ` Todo lo que he hecho en esta ocasión es mover una pieza en respuesta a tus movimientos.`
-` ¿No me digas que estás resignándote ya en el primer turno...?"`
-`"Jo‐jodete...`
-` ¡Y una mierda!`
+` ¿No me digas que estás resignándote ya en el primer turno?"`
+`"V‐vete a la mierda...`
+` ¡No me vengas con esas bromas!`
 ` ¡¿Quién se va a resignar?!`
 ` Ha sido un gran movimiento, así que continúa jugando como te dé la gana."`
 `"Veo que tu turno está lejos de terminar.`
@@ -377,22 +377,22 @@
 ` Ve preparando tu gran formación de batalla mientras puedas."`
 `"Definitivamente me sobrepondré.`
 ` ¡¡Definitivamente te acorralaré!!`
-` Enfrentame con todo lo que tengas, no quiero escuchar ninguna excusa después."`
+` Enfréntame con todo lo que tengas, no quiero escuchar ninguna excusa después."`
 `"Esto no está ni cerca de ser suficiente para que acepte algo como una bruja."`
-`"Es verdad, hace un momento, parecía que arreglaste el caramelo de María con magia,`
+`"Es verdad, hace un momento, parecía que arreglaste el caramelo de Maria con magia,`
 ` ¡pero puede que en realidad tuvieras escondido en tu bolsillo otro caramelo idéntico y luego lo cambiaste usando algún truco rebuscado para que pareciese que lo arreglaste con magia!`
-` ¡Sí, eso es, eso tiene que ser, y es inútil, es completamente inútil...!"`
-`"¿Hohoh...?`
+` ¡Sí, eso es, eso tiene que ser, y es inútil, es completamente inútil!"`
+`"¿Jojo?`
 ` Rosa vio el momento en que el caramelo se convirtió en mariposas, ¿no es así?"`
 `"¡¡Lo que sea, no me importa!!`
 ` ¡¡Eso solo fue una alucinación o un truco, o si no, simplemente lo vio mal!!`
 ` ¡¡Eso ni siquiera es un problema!!"`
 `"¡*carcajada*carcajada*carcajada*carcajada*!`
 ` ¿Así que descartas la parte que no puedes explicar como algo trivial?`
-` Ya veo, ¿es ese tu movimiento en respuesta al mío...?"`
+` Ya veo, ¿es ese tu movimiento en respuesta al mío?"`
 `"*carcajada*carcajada*carcajada*carcajada*... Has cavado tu propia tumba.`
 ` Ushiromiya Battler...`
-` ¡¡Fujajajajajajajajajajaja...!!`
+` ¡¡Fujajajajajajajajajajaja!!`
 ` Aún no es tu turno.`
 ` Déjame continuar con mi movimiento un poco más.`
 ` ¡¡Apenas ha comenzado, el Turno de la Bruja!!"`
@@ -401,14 +401,14 @@
 ` cuando todos se dispersaron a la vez y fueron absorbidos por la inmensa mansión, se creó un silencio espeluznante, sin ningún sonido más que el de la lluvia...`
 `"No.`
 ` Nunca he conocido a una persona así.`
-` ¿Y tú, aneki?"`
+` ¿Y tú, Aneki?"`
 `"Nunca la he conocido.`
-` Kyrie-san, ¿es eso cierto?"`
+` Kyrie‐san, ¿es eso cierto?"`
 `"Bueno, solo la saludé rápidamente cuando estuvo por el vestíbulo.`
 ` Parecía tener poco más de veinte años.`
 ` Le dije mi nombre, pero ella no me dijo el suyo.`
-` Ella estaba siendo guiada por Genji-san, y la vi subir al segundo piso."`
-`"Por lo que probablemente sería más rápido encontrar a Genji-san y escuchar la historia directamente de él.`
+` Ella estaba siendo guiada por Genji‐san, y la vi subir al segundo piso."`
+`"Por lo que probablemente sería más rápido encontrar a Genji‐san y escuchar la historia directamente de él.`
 ` Aún así, qué extraño giro de los acontecimientos..."`
 `La mujer misteriosa había hablado con Kyrie.`
 `{n}Sin siquiera decir su nombre, se había burlado de que Kyrie ya tuviera una vaga idea de quién era.`
@@ -423,24 +423,24 @@
 `"Deja de preguntarme eso.`
 ` ¡Nunca he visto a una mujer rubia como esa entrar o salir de esta mansión!"`
 `"Nada de eso importa.`
-` El problema es lo que pasaría si esa mujer empezara a llamarse a sí misma {f:5:Beatrice}, y a decir que es la administradora de los bienes de Padre."`
+` El problema es lo que pasaría si esa mujer empezara a llamarse a sí misma {f:5:Beatrice}, y a decir que es la administradora de los bienes de padre."`
 `"O... tal vez ella planea llamarse a sí misma la hija de su amante, y a exigir una parte de la herencia.`
 ` De cualquier manera, un escandaloso comodín se ha colado en la baraja.`
-` ¿Fue Nii-san quien la llamó?`
-` ¿O fue Padre...?"`
+` ¿Fue Nii‐san quien la llamó?`
+` ¿O fue padre?"`
 `"Esto es malo.`
 ` Pensamos que si hacíamos un trabajo lo suficientemente bueno acorralando a Aniki en nuestra discusión, podríamos ser capaces de solucionar las cosas.`
 ` Pero esto nos lleva de vuelta al punto de partida."`
-`"............`
+`"...`
 ` No sé qué clase de planes has estado tramando cuando no estoy cerca,`
 ` pero parece que nos han dado un poco de tiempo para formar una contraestrategia."`
 `"Sí.`
 ` Y pensar en el susto de muerte que nos hubiese dado si la señorita rubiecita aparecía repentinamente a la hora de la cena,`
 ` deberíamos alegrarnos de que al menos nos hayan dado un poco de tiempo para discutir una contraestrategia."`
 `"Pero hay pocas contraestrategias que podamos usar si no sabemos cuál es su objetivo.`
-` ¿Qué podría estar buscando...?"`
+` ¿Qué podría estar buscando?"`
 `"¡¿No es algo obvio?!`
-` ¡Ella reclamará que es la legítima heredera de la herencia de Padre!`
+` ¡Ella reclamará que es la legítima heredera de la herencia de padre!`
 ` Padre sigue cautivado por {f:5:Beatrice}.`
 ` ¡Si los dos tuvieron una hija, él le entregaría todos sus bienes sin dudarlo!`
 ` ¡Incluso podría imponernos algún extraño testamento!"`
@@ -453,14 +453,14 @@
 ` Ese es nuestro mayor punto débil.`
 ` Entonces, ¿qué es lo que busca?`
 ` Kyrie, ¿se te ocurre algo?"`
-`".................................`
+`"...`
 ` Es la primera vez que escucho esto, pero una de las premisas es que necesitamos urgentemente una gran suma de dinero, ¿correcto?"`
 `"nn..."`
 `"Kyrie‐san.`
 ` Cuando estás a la ofensiva en el negocio de un hombre, es el momento en el que más necesitas fondos.`
 ` Por favor, entiéndelo."`
 `"¿Qué significa esto, Rudolf?`
-` ¿No se lo habías dicho a Kyrie-san?"`
+` ¿No se lo habías dicho a Kyrie‐san?"`
 `"Lo siento.`
 ` No era mi intención ocultártelo.`
 ` La verdad es que hemos estado teniendo un poco de—"`
@@ -480,8 +480,8 @@
 `"Sin embargo, como su visita se ha mantenido oculta hasta hoy,`
 ` podemos interpretar que no quería que tomáramos medidas al respecto con algo que podríamos haber pensado de antemano.`
 ` Lo que significa que su objetivo puede acabar dejándola en desventaja si tomamos alguna contramedida.`
-` ¿Lo entiendes?"`
-`"Entiendo...`
+` ¿Entienden?"`
+`"Ya veo...`
 ` Por ejemplo, si se tratara de algo como un testamento que papá hubiera escrito con anterioridad, o el reconocimiento como pariente consanguíneo más la prueba adjunta,`
 ` si asumimos que ha traído algo así..."`
 `"Entonces, si fuera una prueba completamente irrefutable, uno pensaría que lo habría anunciado con anticipación."`
@@ -492,7 +492,7 @@
 `"Hmmmm.`
 ` Por lo tanto, el simple hecho de que el enemigo está buscando un ataque sorpresa, nos dice que no podría vencernos con un ataque honesto desde el frente.`
 ` Tiene sentido.`
-` Si tienes una carta de triunfo que te hará ganar con toda seguridad, tienes que jugarla con valentía.`
+` Si tienes un as en la manga que te hará ganar con toda seguridad, tienes que jugarla con valentía.`
 ` Si lo utilizas de forma indirecta, lo más probable es que arruines su impacto."`
 `"En conclusión,`
 ` probablemente deberíamos esperar que nos depare alguna gran sorpresa,`
@@ -510,22 +510,22 @@
 `"Vamos.`
 ` Como de costumbre, lo hiciste muy bien.`
 ` Ahora que ya sabemos que contamos con un pequeño de margen para atacar, nos da un poco más de tranquilidad."`
-`"Lo que no sabemos es si Krauss nii-san tiene que ver con todo esto.`
-` ¿También es una sorpresa para Krauss nii-san, o la persona que la llamó aquí no es otra que el propio Krauss nii-san?"`
+`"Lo que no sabemos es si Krauss nii‐san tiene que ver con todo esto.`
+` ¿También es una sorpresa para Krauss nii‐san, o la persona que la llamó aquí no es otra que el propio Krauss nii‐san?"`
 `"Si es lo segundo, las cosas se podrían poner muy difíciles."`
 `"Sí...`
 ` Llamar en secreto a una mujer misteriosa el día de la conferencia familiar.`
-` Es un estilo tan detestable que se siente como algo que haría Nii-san."`
+` Es un estilo tan detestable que se siente como algo que haría Nii‐san."`
 `"Aneki, manejémoslo de la siguiente manera.`
 ` Mientras ella no pueda probar a ciencia cierta su identidad, no le vamos a reconocer estatus alguno."`
 `"Eso sería lo mejor.`
-` De hecho, ni siquiera le dijo su nombre a Kyrie-san.`
+` De hecho, ni siquiera le dijo su nombre a Kyrie‐san.`
 ` No debemos dejar que nuestra conferencia se vea perturbada por las declaraciones de una desconocida."`
 `"Ella podría mostrarnos pruebas de que es pariente consanguínea o algo así.`
 ` Si ella puede demostrar que la sangre del padre corre por sus venas, como con un acta de nacimiento, no hay nada que podamos hacer."`
 `"Podemos sospechar que cualquier prueba es falsa.`
 ` Incluso si es auténtica, para poder comprobar que es ella es quien dice, tendríamos que involucrar a un hospital.`
-` Al menos, sería imposible probarlo ahora en Rokkenjima."`
+` Al menos, sería imposible demostrarlo ahora en Rokkenjima."`
 `"Sí, es exactamente eso.`
 ` En otras palabras, todo se reduce a lo siguiente:`
 ` No importa lo que se nos muestre ahora en Rokkenjima, no puede ser aceptado como verdad."`
@@ -541,7 +541,7 @@
 `"¡De ninguna manera me voy a quedar de brazos cruzados mientras una misteriosa mujer aparece y destruye mi oportunidad de conseguir mi parte de la herencia!"`
 `Es solo en momentos como este que Rudolf y Eva se unían como hermanos,`
 ` repugnados por la idea de que su propia herencia pueda ser arrebatada por un extraño.`
-`Kyrie al darse cuenta de lo indomables que parecían, sacudió ligeramente la cabeza y dio un pequeño suspiro mientras miraba por la ventana.`
+`Al darse cuenta de lo indomables que parecían, Kyrie sacudió ligeramente la cabeza y dio un pequeño suspiro mientras miraba por la ventana.`
 `Afuera seguía lloviendo a cántaros, todo habia perdido su tonalidad y estaba gris.`
 `Se sentía como si el exuberante jardín, sobre el que antes había brillado el sol, nunca hubiera existido.`
 `Por alguna razón, las palabras que Eva había dicho hacía un rato no dejaban de repetirse en la cabeza de Kyrie.`
@@ -550,9 +550,9 @@
 `Había un matiz extraño en esas palabras.`
 `Ahora mismo, esta isla estaba sellada por el tifón.`
 `{n}Aquí no había instituciones oficiales ni hospitales.`
-`Por lo tanto, cuarlquier institución que haya emitido cualquier tipo de documentación, en esta isla, se podría afirmar que era ficción.`
+`Por lo tanto, cualquier institución que haya emitido cualquier tipo de documentación, en esta isla, se podría afirmar que era ficción.`
 ` Es imposible demostrar que algo es verdad.`
-`Estaban aislados del mundo exterior, y todas las verdades probadas en el mundo exterior se considerarían "ficción"...`
+`Estaban aislados del mundo exterior, y todas las verdades demostradas en el mundo exterior se considerarían "ficción"...`
 `Así que eso significa que...`
 ` ahora, en esta Rokkenjima, ¿no había nada que fuera veraz?`
 `¿Significa esto que ahora todo está controlado por la "ficción"?`
@@ -575,17 +575,17 @@
 `{n}¿Por qué razón la bruja fue invitada aquí hoy?`
 `Solo es seguro una cosa.`
 ` En este mismo momento, ella se encuentra en algún lugar de esta vasta mansión...`
-`"María...`
+`"Maria...`
 ` Alrededor de la hora del almuerzo de hoy, nos... encontramos con alguien afuera, ¿verdad?`
 ` Una mujer.`
 ` ¿Quién... era ella?"`
 `"Uu.`
 ` Ya lo he dicho varias veces.`
-` Era {f:5:Beatrice}."`
-`"María, ¿conoces a esta {f:5:Beatrice}...?"`
+` Es {f:5:Beatrice}."`
+`"Maria, ¿conoces a esta {f:5:Beatrice}?"`
 `"Uu.`
 ` La veo todos los años."`
-`"¿Todos los años...?`
+`"¿Todos los años?`
 ` ¿Aquí en esta mansión en Rokkenjima?"`
 `"Uu."`
 `"¡No sé lo que "uu" significa!`
@@ -604,15 +604,15 @@
 `Rosa estaba atónita.`
 ` En esta isla solo existía la mansión Ushiromiya.`
 ` No había forma de que hubiera otros humanos aparte de los que estaban dentro de ella.`
-`Y a pesar de todo, María dijo que se había estado reuniendo con esa mujer sospechosa todos los años durante la conferencia familiar...`
-`Si lo que dijo María era verdad,`
+`Y a pesar de todo, Maria dijo que se había estado reuniendo con esa mujer sospechosa todos los años durante la conferencia familiar...`
+`Si lo que dijo Maria era verdad,`
 ` entonces esa extraña mujer llamada {f:5:Beatrice} había estado en la conferencia familiar todos los años.`
 `Eso es una locura.`
-`¡¿Acaso está diciendo que una mujer misteriosa estuvo todos los años en la conferencia familiar y ninguno de nosotros se dio cuenta...?!`
+`¡¿Acaso está diciendo que una mujer misteriosa estuvo todos los años en la conferencia familiar y ninguno de nosotros se dio cuenta?!`
 `Aunque Rosa acababa de conocerla hace un par de horas en el jardín de rosas,`
 ` la invadió una extraña sensación que le decía que no aceptara su existencia...`
-`¿Con "qué" me he encontrado hoy en el jardín de rosas, mientras el tifón se acercaba y los vientos soplaban con fuerza...?`
-`"María.`
+`¿Con "qué" me he encontrado hoy en el jardín de rosas, mientras el tifón se acercaba y los vientos soplaban con fuerza?`
+`"Maria.`
 ` Ya que dijiste que la veías todos los años.`
 ` ¿Qué es lo que hacen juntas?"`
 `"Uu.`
@@ -620,55 +620,55 @@
 ` Aprender a dibujar círculos mágicos."`
 `"¿En‐en serio?`
 ` Eso es increíble.`
-` María, tú a menudo garabateas—`
-`lo siento, dibujas círculos mágicos en tu cuaderno, ¿cierto?`
+` Maria, tú a menudo garabateas—`
+`digo, dibujas círculos mágicos en tu cuaderno, ¿cierto?`
 ` ¿Ella te enseñó eso?"`
 `"¡Uu!`
 ` ¡{f:5:Beatrice} los dibuja como deberían ser!`
 ` ¡Mira! ¡Mira!"`
-`María rebuscó alegremente en su bolso.`
+`Maria rebuscó alegremente en su bolso.`
 `Entonces, sacó un cuaderno y empezó a abrir sus páginas.`
 `La mayoría de las páginas estaban cubiertas de dibujos que eran literalmente garabatos.`
 `Todas ellas tenían cosas ocultistas,`
-`y aunque a María, quien hojeaba alegremente las páginas, le sonara grosero, todas eran macabras.`
+`y aunque a Maria, quien hojeaba alegremente las páginas, le sonara grosero, todas eran macabras.`
 `"¡Mira! ¡Aquí!`
 ` ¡¡{f:5:Beatrice} dibujó estos para mí!!`
 ` ¡¡Uu!!"`
-`En cada página que María abría, había otro inquietante círculo mágico dibujado.`
-`Además, a simple vista, Rosa se dio cuenta de que María no los había dibujado.`
+`En cada página que Maria abría, había otro inquietante círculo mágico dibujado.`
+`Además, a simple vista, Rosa se dio cuenta de que Maria no los había dibujado.`
 `La firmeza de los trazos, el grosor de las líneas, lo limpia que era la forma.`
 `{n}Esto por sí solo no era suficiente para adivinar el origen de la persona que lo había dibujado,`
-` pero fue suficiente para que Rosa entendiera que definitivamente era alguien mayor que María.`
+` pero fue suficiente para que Rosa entendiera que definitivamente era alguien mayor que Maria.`
 `Rosa tuvo que aceptarlo ahora.`
 `Realmente había una persona en Rokkenjima que ni siquiera ella sabía que existía,`
-` y esta persona había estado jugando con María durante la conferencia familiar cada año.`
-`"María.`
-` Umm, ¿Esta bruja {f:5:Beatrice} vive aquí...?`
-` ¿O vive afuera de la isla como nosotros...?"`
+` y esta persona había estado jugando con Maria durante la conferencia familiar cada año.`
+`"Maria.`
+` Umm, ¿Esta bruja {f:5:Beatrice} vive aquí?`
+` ¿O vive afuera de la isla como nosotros?"`
 `"Uu.`
 ` {f:5:Beatrice} es la bruja de Rokkenjima, así que vive en esta isla."`
 `"Entonces, ¿estás diciendo que ella está en la isla incluso cuando no es la conferencia familiar?"`
 `"Uu."`
 `"¡¡No sé lo que "uu" significa!!`
 ` ¡¿Y bien?!"`
-`"...`
+`"¡...!`
 ` Sí...`
 ` Uu..."`
-`Oh... oh por Dios, oh por Dios...`
-`{n}¡No puedo creerlo, no puedo creerlo...!`
+`D... dios mío, dios mío...`
+`{n}¡No puedo creerlo, no puedo creerlo!`
 `¡¿Cuánto tiempo lleva viviendo esa bruja desconocida en esta isla?!`
 `Yo solía vivir en esta isla.`
 `{n}Pasaba mi tiempo en la mansión y en el jardín de rosas.`
 `Y aun así, nunca me encontré con esa bruja,`
 ` nunca,`
 ` ¿eso... creo?`
-`"¿Mamá...?`
-` ¿Mamá...?`
-` ¿Qué sucede...?`
-` ¡¿Mamá...?!"`
+`"¿Mamá?`
+` ¿Mamá?`
+` ¿Qué sucede?`
+` ¡¿Mamá?!"`
 `"La cabeza me... duele..."`
 `Probablemente estoy un poco confundida, mis recuerdos se mezclaron con los de cuando era joven.`
-`Cuando era niña, a diferencia de María, me daban mucho miedo las brujas.`
+`Cuando era niña, a diferencia de Maria, me daban mucho miedo las brujas.`
 `{n}Por lo que para mí, el nombre de {f:5:Beatrice} era sinónimo de algo aterrador.`
 `Entonces, debe ser que se ha reavivado el miedo que sentía cuando era niña debido a la aparición de una mujer del mismo nombre...`
 `No puede ser una bruja.`
@@ -679,22 +679,22 @@
 `Rosa sacó ese sobre occidental de su bolsillo.`
 `El sobre occidental llevaba el emblema Ushiromiya que Kinzo utilizaba en sus cartas personales.`
 ` Incluso había sido sellado con el lacre rojo por el anillo del Líder, que Kinzo llevaba.`
-`Lo que significa que... este sobre pertenecía al Líder de la familia Ushiromiya.`
-`{n}En otras palabras, era de Padre.`
+`Lo que significa que... este sobre pertenecía al líder de la familia Ushiromiya.`
+`{n}En otras palabras, era de padre.`
 `¿Por qué lo llevaba una mujer que se hacía llamar {f:5:Beatrice}? ¿Y por qué me lo dio?`
 `Es verdad,`
 ` Estoy seguro de que dijo que leyera esto en voz alta en la cena.`
-`{n}¿Qué rayos podría estar escrito dentro...?`
+`{n}¿Qué rayos podría estar escrito dentro?`
 `La ansiedad se apoderó de Rosa,`
 ` como si se liberaría algún tipo de desastre monumental al abrir este sobre...`
 `Sin embargo, al mismo tiempo, le surgió una pizca de curiosidad que le hizo querer averiguar el contenido antes que los demás hermanos.`
-`Usando el sentido común, se podría suponer que contenía algo importante relacionado con la herencia de Padre.`
+`Usando el sentido común, se podría suponer que contenía algo importante relacionado con la herencia de padre.`
 `De hecho, ya que él se lo había dado a una mujer que se hacía llamar {f:5:Beatrice}, no había forma de que no estuviera relacionado.`
 ` ¿Significaba esto que él quería que la herencia no se repartiera entre cuatro, sino entre cinco, incluyéndola a ella?`
 `Yo necesito una gran suma de dinero, y... no puedo esperar mucho.`
-`Me siento como una hija pecadora por discutir el reparto de la herencia de Padre mientras aún vive.`
+`Me siento como una hija pecadora por discutir el reparto de la herencia de padre mientras aún vive.`
 ` Sin embargo, ya no estoy en la etapa en la que pueda aferrarme a simples ideales.`
-`Incluso estoy conspirando con Rudolf nii-san y Eva nee-san para conseguir algo de dinero de Krauss nii-san.`
+`Incluso estoy conspirando con Rudolf nii‐san y Eva nee‐san para conseguir algo de dinero de Krauss nii‐san.`
 ` Estando en esta situación, no puedo evitar sentir algo siniestro en la aparición de la bruja...`
 `¿Qué podría estar escrito aquí?`
 `{n}Estoy segura de que debe haber algo escalofriante escrito.`
@@ -702,60 +702,60 @@
 `La bruja había pedido que se hiciera cuando todos estuvieran reunidos en la cena.`
 ` Pero de ser así, ¿no sería mejor si ella misma lo leyera a la hora de la cena?`
 `¿Por qué se tomó la molestia de encomendármelo?`
-` ¿Eso significa básicamente que no le importa si yo lo leo en secreto de antemano...?`
+` ¿Eso significa básicamente que no le importa si yo lo leo en secreto de antemano?`
 `Sería lo mejor leer el contenido en secreto primero.`
 `{n}Entiendo que eso sería romper mi promesa.`
 `Pero ya no es momento de aferrarse a esos simples ideales...`
-`Probablemente sería bueno discutirlo con Eva nee-san y Rudolf nii-san, dependiendo del contenido...`
-` Nee-san y el resto son siempre muy buenos pensadores cuando se trata de este tipo de cosas...`
+`Probablemente sería bueno discutirlo con Eva nee‐san y Rudolf nii‐san, dependiendo del contenido...`
+` Nee‐san y el resto son siempre muy buenos pensadores cuando se trata de este tipo de cosas...`
 `Mientras tragaba saliva, puse la mano en el lacre rojo...`
 `De repente, algo me tiró de la manga y solté un pequeño grito.`
 `"¡¿Qu‐qué pasa?!`
-` M‐... María.`
+` M‐... Maria.`
 ` No me asustes así.`
 ` ¿Qué pasa?"`
 `"Uu...`
 ` No..."`
-`"¿Huh...?"`
-`María estaba poniendo la misma expresión macabra que Rosa había visto en la bruja, haciéndole sentir un escalofrío que le recorrió la espalda...`
+`"¿Eh...?"`
+`Maria estaba poniendo la misma expresión macabra que Rosa había visto en la bruja, haciéndole sentir un escalofrío que le recorrió la espalda...`
 `"{f:5:Beatrice} te dijo que leyeras esa carta durante la cena, mamá.`
 ` No puedes romper una promesa con una bruja.`
 ` Kijijiji{0}ji{0}ji{0}ji{0}ji{0}ji{0}jijiji..."`
-`"N-no yo solo...`
+`"N‐no yo solo...`
 ` Solamente quería echar un vistazo al sobre un segundo.`
 ` Cumpliré mi promesa.`
 ` Después de todo, mamá siempre te dice que cumplas tus promesas.`
 ` Por supuesto que mamá cumplirá su promesa..."`
-`"Síp.`
+`"Sí.`
 ` Mamá es una buena chica.`
 ` Kijijijijijijijijiji..."`
 `"E...`
 ` esa risa.`
 ` No es agradable, así que basta."`
 `"Uu."`
-`"Ahora que lo pienso, tú también recibiste una carta, María.`
+`"Ahora que lo pienso, tú también recibiste una carta, Maria.`
 ` ¿Qué es lo que decía?"`
 `"No la he abierto.`
 ` {f:5:Beatrice} dijo que no debo abrirla hasta que sea el momento de abrirla.`
 ` Así que estoy cuidando de ella.`
 ` Uu."`
 `"Ya... ya veo.`
-` Tú sí que haces caso a lo que dice {f:5:Beatrice}, ¿verdad, María?."`
+` Tú sí que haces caso a lo que dice {f:5:Beatrice}, ¿verdad, Maria?"`
 `"Uu.`
 ` Soy la aprendiz de {f:5:Beatrice}, así que hago caso a lo que dice mi maestra."`
 `"Ya... ya veo."`
-`"¡¿......?!"`
+`"¡¿...?!"`
 `Rosa se dio cuenta de algo.`
-` Mezclada con la mirada de María... estaba la de una persona que no era María.`
+` Mezclada con la mirada de Maria... estaba la de una persona que no era Maria.`
 `Si rompiera las reglas, y abriera el sobre aquí, {f:5:Beatrice} definitivamente se enteraría.`
-`Dado que María era la aprendiz de la bruja.`
-`{n}María se comunicaba con esa bruja...`
+`Dado que Maria era la aprendiz de la bruja.`
+`{n}Maria se comunicaba con esa bruja...`
 `"Mamá cumplirá su promesa.`
 ` Así que dile a {f:5:Beatrice} que no se preocupe, ¿de acuerdo?"`
 `"¡Uu!`
 ` Se lo diré."`
-`"Oye, María.`
-` Quiero hablar con {f:5:Beatrice}, así que, ¿me pregunto qué podría hacer para encontrarme con ella...?"`
+`"Oye, Maria.`
+` Quiero hablar con {f:5:Beatrice}, así que, ¿me pregunto qué podría hacer para encontrarme con ella?"`
 `"No lo sé.`
 ` {f:5:Beatrice} es muy caprichosa, por lo que siempre aparece de repente.`
 ` Yo no sé cómo encontrarla."`
@@ -764,8 +764,8 @@
 ` Se ha vuelto invisible, y se esconde cerca de mí, lo sé.`
 ` Kijiji{0}ji{0}ji{0}ji{0}ji{0}ji{0}ji{0}ji{0}ji{0}ji{0}ji{0}ji{0}ji{0}ji{0}ji{0}ji{0}ji{0}ji{0}ji{0}ji{0}ji{0}ji{0}ji{0}ji{0}jijiji."`
 `"¡¿No te digo siempre que dejes de reírte de esa manera?!"`
-`Rosa golpeó por reflejo a María en la cabeza.`
-` Eso detuvo la risa de María, pero no fue capaz de quitar la escalofriante mirada que ella tenía.`
+`Rosa golpeó por reflejo a Maria en la cabeza.`
+` Eso detuvo la risa de Maria, pero no fue capaz de quitar la escalofriante mirada que ella tenía.`
 `Rosa hizo un pacto consigo misma.`
-` Juró que, al menos hasta que abandonaran la isla, no dejaría a María sola.`
+` Juró que, al menos hasta que abandonaran la isla, no dejaría a Maria sola.`
 `Ella no podía permitir que un ser desconocido siguiera en contacto directo con su hija...`
